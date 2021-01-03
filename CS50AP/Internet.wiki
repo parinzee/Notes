@@ -1,0 +1,158 @@
+= Contents =
+    - [[#Vocab|Vocab]]
+    - [[#The Internet|The Internet]]
+        - [[#The Internet#Networks|Networks]]
+            - [[#The Internet#Networks#Types of Network|Types of Network]]
+        - [[#The Internet#Measurements of Internet|Measurements of Internet]]
+    - [[#Protocols|Protocols]]
+        - [[#Protocols#IP Protocol|IP Protocol]]
+            - [[#Protocols#IP Protocol#IPv4|IPv4]]
+            - [[#Protocols#IP Protocol#IPv6|IPv6]]
+            - [[#Protocols#IP Protocol#IP Packets|IP Packets]]
+        - [[#Protocols#Internet Routing Protocol|Internet Routing Protocol]]
+        - [[#Protocols#UDP and TCP|UDP and TCP]]
+            - [[#Protocols#UDP and TCP#UDP (User Datagram Protocol)|UDP (User Datagram Protocol)]]
+            - [[#Protocols#UDP and TCP#TCP (Transmission Control Protocol)|TCP (Transmission Control Protocol)]]
+
+= Vocab =
+Computing Devices:: *Devices* that can run a *program*
+
+Network Topology:: *Arrangements* of connected devices.
+
+LAN:: Covers Limited Area like house
+
+Bit rate:: Numbers of bit sent per *second*
+
+Bandwidth:: *Maximum* number of *bit rate*
+
+Latency:: *Time* bits takes to _arrive_.
+
+IP:: Internet Protocol, used to handle *routing and addressing*
+
+
+= The Internet =
+The internet is a *network* of connected _computing devices_.
+
+== Networks ==
+As simple as connecting two devices.
+
+Device 1 ---- Device 2
+
+=== Types of Network ===
+
+- LAN = Covers *limited* area.
+- WAN = Covers *large* area.
+- DCN = Networks used in *Data Centres*
+
+
+== Measurements of Internet ==
+We have ways to measure speed and so forth
+
+- *Bit rate* is the speed that _bits_ are sent each *second*. EG: 125 Megabytes Per Second
+- *Bandwidth* is the MAXIMUM number of *Bit rate*.
+- *Latency* is the *amount* of time that _bits_ takes to arrive. EG: 40 milliseconds
+
+
+= Protocols =
+To communicate with eachother they need a language or a *_protocol_*.
+
+The most import is the *IP* (Internet Protocol)
+
+== IP Protocol ==
+Utilize address -- two versions: IPv4 and IPv6
+
+=== IPv4 ===
+0-255.0-255.0-255.0-255
+
+Has *FOUR* places and only has number of 0-255 (32 Bits)
+
+=== IPv6 ===
+Comrpises of *8* places and uses hexadecimal values.
+
+Example: *2001:0db8:0000:0042:0000:8a2e:0370:7334*
+
+| Normal | Hexadecimal |
+|--------|-------------|
+| 1      | 1           |
+| 2      | 2           |
+| 3      | 3           |
+| 4      | 4           |
+| 5      | 5           |
+| 6      | 6           |
+| 7      | 7           |
+| 8      | 8           |
+| 9      | 9           |
+| 10     | *A*         |
+| 11     | *B*         |
+| 12     | *C*         |
+| 13     | *D*         |
+| 14     | *E*         |
+| 15     | *F*         |
+
+
+=== IP Packets ===
+Files must be transfered in small sizes -- *Packets*
+
+Each packet cotains a header that has information on how to route it
+- IP address of *destination and source*
+- ETC
+
+{{https://cdn.kastatic.org/ka-perseus-images/337190cba133e19ee9d8b5878453f915971a59cd.svg}}
+
+== Internet Routing Protocol ==
+Protocols that computers use to split data and move them router to router until it reaches it's destination
+
+1. Send Packet to *router*
+2. Router looks at *destination ip* and sends it through the closest route (next router)
+3. Forwards packet using *table*
+4. _Message Reaches Destination_
+
+Since there are many routes the internet is very *redundant*
+
+However IP doesn't take care if the packets go missing? Or corruption?
+
+== UDP and TCP ==
+These are higher level protocols that are used on top of IP to improve it.
+
+=== UDP (User Datagram Protocol) ===
+UDP provides a mechanism to detect corruption but *does not solve other problems*. This makes it *faster* than TCP but less *reliable.*
+
+{{https://cdn.kastatic.org/ka-perseus-images/9d185d3d44c7ef1e2cd61655e47befb4d383e907.svg}}
+
+This makes UDP *less used* but it does have some use cases such as: *_Facetime and other things_*
+
+=== TCP (Transmission Control Protocol) ===
+TCP is a more commonly used protocol so much that its normally called *TCP/IP*
+The TCP header contains more *Fields* than the UDP ones.
+{{https://cdn.kastatic.org/ka-perseus-images/e5fdf560fdb40a1c0b3c3ce96f570e5f00fff161.svg}}
+
+Its a bit more complicated than UDP to send data first they need to establish a *3-Way Handshake*
+
+1. Establish Connection 
+	a) Device 1 sends *(SYN)* synchronize signal
+	b) Device 2 sends *(ACK)* as to acknowledge data transmission
+	c) Device 1 sends *(ACK)* then starts sending.
+
+2. Send packets
+	a) Send packet one
+	b) *(ACK #1)*
+	c) Repeat
+
+3. Close connection
+	a) Device 1 sends *(FIN)*
+	b) Device 2 sends *(ACK)*
+	c) Device 1 sends *(ACK)*
+
+This makes the whole system very secure and we can see how it handles packets:
+
+- Lost Packets
+	- TCP can know if packets are lost if *Device 2* does not respond *(ACK)* within a timeout
+{{https://cdn.kastatic.org/ka-perseus-images/b1017461d232cd46fa5b445f80e75568bf31c57c.svg}}
+
+- Out of order packets
+{{https://cdn.kastatic.org/ka-perseus-images/27f4fa1915c98689623e0ee224416c5290afc65a.svg}}
+	- The reciever will let the sender know if the something is weird that the *(ACK)* does not match packets being sent
+	- The reciever will resend the packets
+	- And they the reciever can reassemble the packets using the *NUMBER #*
+
+
