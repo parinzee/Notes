@@ -1,0 +1,483 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="Stylesheet" type="text/css" href="style.css">
+<title>Internet</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+<body>
+
+<div id="Contents" class="toc"><h1 id="Contents">Contents</a></h1></div>
+<ul>
+<li>
+<a href="Internet.html#Vocab">Vocab</a>
+
+<li>
+<a href="Internet.html#The Internet">The Internet</a>
+
+<ul>
+<li>
+<a href="Internet.html#The Internet-Networks">Networks</a>
+
+<ul>
+<li>
+<a href="Internet.html#The Internet-Networks-Types of Network">Types of Network</a>
+
+</ul>
+<li>
+<a href="Internet.html#The Internet-Measurements of Internet">Measurements of Internet</a>
+
+</ul>
+<li>
+<a href="Internet.html#Protocols">Protocols</a>
+
+<ul>
+<li>
+<a href="Internet.html#Protocols-IP Protocol">IP Protocol</a>
+
+<ul>
+<li>
+<a href="Internet.html#Protocols-IP Protocol-IPv4">IPv4</a>
+
+<li>
+<a href="Internet.html#Protocols-IP Protocol-IPv6">IPv6</a>
+
+<li>
+<a href="Internet.html#Protocols-IP Protocol-IP Packets">IP Packets</a>
+
+</ul>
+<li>
+<a href="Internet.html#Protocols-Internet Routing Protocol">Internet Routing Protocol</a>
+
+<li>
+<a href="Internet.html#Protocols-UDP and TCP">UDP and TCP</a>
+
+<ul>
+<li>
+<a href="Internet.html#Protocols-UDP and TCP-UDP (User Datagram Protocol)">UDP (User Datagram Protocol)</a>
+
+<li>
+<a href="Internet.html#Protocols-UDP and TCP-TCP (Transmission Control Protocol)">TCP (Transmission Control Protocol)</a>
+
+</ul>
+</ul>
+</ul>
+
+<div id="Vocab"><h1 id="Vocab" class="header"><a href="#Vocab">Vocab</a></h1></div>
+<dl>
+<dt>Computing Devices</dt>
+<dd><span id="Vocab-Devices"></span><strong id="Devices">Devices</strong> that can run a <span id="Vocab-program"></span><strong id="program">program</strong></dd>
+</dl>
+
+<dl>
+<dt>Network Topology</dt>
+<dd><span id="Vocab-Arrangements"></span><strong id="Arrangements">Arrangements</strong> of connected devices.</dd>
+</dl>
+
+<dl>
+<dt>LAN</dt>
+<dd>Covers Limited Area like house</dd>
+</dl>
+
+<dl>
+<dt>Bit rate</dt>
+<dd>Numbers of bit sent per <span id="Vocab-second"></span><strong id="second">second</strong></dd>
+</dl>
+
+<dl>
+<dt>Bandwidth</dt>
+<dd><span id="Vocab-Maximum"></span><strong id="Maximum">Maximum</strong> number of <span id="Vocab-bit rate"></span><strong id="bit rate">bit rate</strong></dd>
+</dl>
+
+<dl>
+<dt>Latency</dt>
+<dd><span id="Vocab-Time"></span><strong id="Time">Time</strong> bits takes to <em>arrive</em>.</dd>
+</dl>
+
+<dl>
+<dt>IP</dt>
+<dd>Internet Protocol, used to handle <span id="Vocab-routing and addressing"></span><strong id="routing and addressing">routing and addressing</strong></dd>
+</dl>
+
+
+<div id="The Internet"><h1 id="The Internet" class="header"><a href="#The Internet">The Internet</a></h1></div>
+<p>
+The internet is a <span id="The Internet-network"></span><strong id="network">network</strong> of connected <em>computing devices</em>.
+</p>
+
+<div id="The Internet-Networks"><h2 id="Networks" class="header"><a href="#The Internet-Networks">Networks</a></h2></div>
+<p>
+As simple as connecting two devices.
+</p>
+
+<p>
+Device 1 ---- Device 2
+</p>
+
+<div id="The Internet-Networks-Types of Network"><h3 id="Types of Network" class="header"><a href="#The Internet-Networks-Types of Network">Types of Network</a></h3></div>
+
+<ul>
+<li>
+LAN = Covers <span id="The Internet-Networks-Types of Network-limited"></span><strong id="limited">limited</strong> area.
+
+<li>
+WAN = Covers <span id="The Internet-Networks-Types of Network-large"></span><strong id="large">large</strong> area.
+
+<li>
+DCN = Networks used in <span id="The Internet-Networks-Types of Network-Data Centres"></span><strong id="Data Centres">Data Centres</strong>
+
+</ul>
+
+
+<div id="The Internet-Measurements of Internet"><h2 id="Measurements of Internet" class="header"><a href="#The Internet-Measurements of Internet">Measurements of Internet</a></h2></div>
+<p>
+We have ways to measure speed and so forth
+</p>
+
+<ul>
+<li>
+<span id="The Internet-Measurements of Internet-Bit rate"></span><strong id="Bit rate">Bit rate</strong> is the speed that <em>bits</em> are sent each <span id="The Internet-Measurements of Internet-second"></span><strong id="second">second</strong>. EG: 125 Megabytes Per Second
+
+<li>
+<span id="The Internet-Measurements of Internet-Bandwidth"></span><strong id="Bandwidth">Bandwidth</strong> is the MAXIMUM number of <span id="The Internet-Measurements of Internet-Bit rate"></span><strong id="Bit rate">Bit rate</strong>.
+
+<li>
+<span id="The Internet-Measurements of Internet-Latency"></span><strong id="Latency">Latency</strong> is the <span id="The Internet-Measurements of Internet-amount"></span><strong id="amount">amount</strong> of time that <em>bits</em> takes to arrive. EG: 40 milliseconds
+
+</ul>
+
+
+<div id="Protocols"><h1 id="Protocols" class="header"><a href="#Protocols">Protocols</a></h1></div>
+<p>
+To communicate with eachother they need a language or a <span id="Protocols-<em>protocol</em>"></span><strong id="<em>protocol</em>"><em>protocol</em></strong>.
+</p>
+
+<p>
+The most import is the <span id="Protocols-IP"></span><strong id="IP">IP</strong> (Internet Protocol)
+</p>
+
+<div id="Protocols-IP Protocol"><h2 id="IP Protocol" class="header"><a href="#Protocols-IP Protocol">IP Protocol</a></h2></div>
+<p>
+Utilize address -- two versions: IPv4 and IPv6
+</p>
+
+<div id="Protocols-IP Protocol-IPv4"><h3 id="IPv4" class="header"><a href="#Protocols-IP Protocol-IPv4">IPv4</a></h3></div>
+<p>
+0-255.0-255.0-255.0-255
+</p>
+
+<p>
+Has <span id="Protocols-IP Protocol-IPv4-FOUR"></span><strong id="FOUR">FOUR</strong> places and only has number of 0-255 (32 Bits)
+</p>
+
+<div id="Protocols-IP Protocol-IPv6"><h3 id="IPv6" class="header"><a href="#Protocols-IP Protocol-IPv6">IPv6</a></h3></div>
+<p>
+Comrpises of <span id="Protocols-IP Protocol-IPv6-8"></span><strong id="8">8</strong> places and uses hexadecimal values.
+</p>
+
+<p>
+Example: <span id="Protocols-IP Protocol-IPv6-2001:0db8:0000:0042:0000:8a2e:0370:7334"></span><strong id="2001:0db8:0000:0042:0000:8a2e:0370:7334">2001:0db8:0000:0042:0000:8a2e:0370:7334</strong>
+</p>
+
+<table>
+<tr>
+<th>
+Normal
+</th>
+<th>
+Hexadecimal
+</th>
+</tr>
+<tr>
+<td>
+1
+</td>
+<td>
+1
+</td>
+</tr>
+<tr>
+<td>
+2
+</td>
+<td>
+2
+</td>
+</tr>
+<tr>
+<td>
+3
+</td>
+<td>
+3
+</td>
+</tr>
+<tr>
+<td>
+4
+</td>
+<td>
+4
+</td>
+</tr>
+<tr>
+<td>
+5
+</td>
+<td>
+5
+</td>
+</tr>
+<tr>
+<td>
+6
+</td>
+<td>
+6
+</td>
+</tr>
+<tr>
+<td>
+7
+</td>
+<td>
+7
+</td>
+</tr>
+<tr>
+<td>
+8
+</td>
+<td>
+8
+</td>
+</tr>
+<tr>
+<td>
+9
+</td>
+<td>
+9
+</td>
+</tr>
+<tr>
+<td>
+10
+</td>
+<td>
+<span id="Protocols-IP Protocol-IPv6-A"></span><strong id="A">A</strong>
+</td>
+</tr>
+<tr>
+<td>
+11
+</td>
+<td>
+<span id="Protocols-IP Protocol-IPv6-B"></span><strong id="B">B</strong>
+</td>
+</tr>
+<tr>
+<td>
+12
+</td>
+<td>
+<span id="Protocols-IP Protocol-IPv6-C"></span><strong id="C">C</strong>
+</td>
+</tr>
+<tr>
+<td>
+13
+</td>
+<td>
+<span id="Protocols-IP Protocol-IPv6-D"></span><strong id="D">D</strong>
+</td>
+</tr>
+<tr>
+<td>
+14
+</td>
+<td>
+<span id="Protocols-IP Protocol-IPv6-E"></span><strong id="E">E</strong>
+</td>
+</tr>
+<tr>
+<td>
+15
+</td>
+<td>
+<span id="Protocols-IP Protocol-IPv6-F"></span><strong id="F">F</strong>
+</td>
+</tr>
+</table>
+
+
+<div id="Protocols-IP Protocol-IP Packets"><h3 id="IP Packets" class="header"><a href="#Protocols-IP Protocol-IP Packets">IP Packets</a></h3></div>
+<p>
+Files must be transfered in small sizes -- <span id="Protocols-IP Protocol-IP Packets-Packets"></span><strong id="Packets">Packets</strong>
+</p>
+
+<p>
+Each packet cotains a header that has information on how to route it
+</p>
+<ul>
+<li>
+IP address of <span id="Protocols-IP Protocol-IP Packets-destination and source"></span><strong id="destination and source">destination and source</strong>
+
+<li>
+ETC
+
+</ul>
+
+<p>
+<img src="https://cdn.kastatic.org/ka-perseus-images/337190cba133e19ee9d8b5878453f915971a59cd.svg" />
+</p>
+
+<div id="Protocols-Internet Routing Protocol"><h2 id="Internet Routing Protocol" class="header"><a href="#Protocols-Internet Routing Protocol">Internet Routing Protocol</a></h2></div>
+<p>
+Protocols that computers use to split data and move them router to router until it reaches it's destination
+</p>
+
+<ol>
+<li>
+Send Packet to <span id="Protocols-Internet Routing Protocol-router"></span><strong id="router">router</strong>
+
+<li>
+Router looks at <span id="Protocols-Internet Routing Protocol-destination ip"></span><strong id="destination ip">destination ip</strong> and sends it through the closest route (next router)
+
+<li>
+Forwards packet using <span id="Protocols-Internet Routing Protocol-table"></span><strong id="table">table</strong>
+
+<li>
+<em>Message Reaches Destination</em>
+
+</ol>
+
+<p>
+Since there are many routes the internet is very <span id="Protocols-Internet Routing Protocol-redundant"></span><strong id="redundant">redundant</strong>
+</p>
+
+<p>
+However IP doesn't take care if the packets go missing? Or corruption?
+</p>
+
+<div id="Protocols-UDP and TCP"><h2 id="UDP and TCP" class="header"><a href="#Protocols-UDP and TCP">UDP and TCP</a></h2></div>
+<p>
+These are higher level protocols that are used on top of IP to improve it.
+</p>
+
+<div id="Protocols-UDP and TCP-UDP (User Datagram Protocol)"><h3 id="UDP (User Datagram Protocol)" class="header"><a href="#Protocols-UDP and TCP-UDP (User Datagram Protocol)">UDP (User Datagram Protocol)</a></h3></div>
+<p>
+UDP provides a mechanism to detect corruption but <span id="Protocols-UDP and TCP-UDP (User Datagram Protocol)-does not solve other problems"></span><strong id="does not solve other problems">does not solve other problems</strong>. This makes it <span id="Protocols-UDP and TCP-UDP (User Datagram Protocol)-faster"></span><strong id="faster">faster</strong> than TCP but less <span id="Protocols-UDP and TCP-UDP (User Datagram Protocol)-reliable."></span><strong id="reliable.">reliable.</strong>
+</p>
+
+<p>
+<img src="https://cdn.kastatic.org/ka-perseus-images/9d185d3d44c7ef1e2cd61655e47befb4d383e907.svg" />
+</p>
+
+<p>
+This makes UDP <span id="Protocols-UDP and TCP-UDP (User Datagram Protocol)-less used"></span><strong id="less used">less used</strong> but it does have some use cases such as: <span id="Protocols-UDP and TCP-UDP (User Datagram Protocol)-<em>Facetime and other things</em>"></span><strong id="<em>Facetime and other things</em>"><em>Facetime and other things</em></strong>
+</p>
+
+<div id="Protocols-UDP and TCP-TCP (Transmission Control Protocol)"><h3 id="TCP (Transmission Control Protocol)" class="header"><a href="#Protocols-UDP and TCP-TCP (Transmission Control Protocol)">TCP (Transmission Control Protocol)</a></h3></div>
+<p>
+TCP is a more commonly used protocol so much that its normally called <span id="Protocols-UDP and TCP-TCP (Transmission Control Protocol)-TCP/IP"></span><strong id="TCP/IP">TCP/IP</strong>
+The TCP header contains more <span id="Protocols-UDP and TCP-TCP (Transmission Control Protocol)-Fields"></span><strong id="Fields">Fields</strong> than the UDP ones.
+<img src="https://cdn.kastatic.org/ka-perseus-images/e5fdf560fdb40a1c0b3c3ce96f570e5f00fff161.svg" />
+</p>
+
+<p>
+Its a bit more complicated than UDP to send data first they need to establish a <span id="Protocols-UDP and TCP-TCP (Transmission Control Protocol)-3-Way Handshake"></span><strong id="3-Way Handshake">3-Way Handshake</strong>
+</p>
+
+<ol>
+<li>
+Establish Connection 
+
+<ol>
+<li>
+Device 1 sends <span id="Protocols-UDP and TCP-TCP (Transmission Control Protocol)-(SYN)"></span><strong id="(SYN)">(SYN)</strong> synchronize signal
+
+<li>
+Device 2 sends <span id="Protocols-UDP and TCP-TCP (Transmission Control Protocol)-(ACK)"></span><strong id="(ACK)">(ACK)</strong> as to acknowledge data transmission
+
+<li>
+Device 1 sends <span id="Protocols-UDP and TCP-TCP (Transmission Control Protocol)-(ACK)"></span><strong id="(ACK)">(ACK)</strong> then starts sending.
+
+</ol>
+</ol>
+
+<ol>
+<li>
+Send packets
+
+<ol>
+<li>
+Send packet one
+
+<li>
+<span id="Protocols-UDP and TCP-TCP (Transmission Control Protocol)-(ACK #1)"></span><strong id="(ACK #1)">(ACK #1)</strong>
+
+<li>
+Repeat
+
+</ol>
+</ol>
+
+<ol>
+<li>
+Close connection
+
+<ol>
+<li>
+Device 1 sends <span id="Protocols-UDP and TCP-TCP (Transmission Control Protocol)-(FIN)"></span><strong id="(FIN)">(FIN)</strong>
+
+<li>
+Device 2 sends <span id="Protocols-UDP and TCP-TCP (Transmission Control Protocol)-(ACK)"></span><strong id="(ACK)">(ACK)</strong>
+
+<li>
+Device 1 sends <span id="Protocols-UDP and TCP-TCP (Transmission Control Protocol)-(ACK)"></span><strong id="(ACK)">(ACK)</strong>
+
+</ol>
+</ol>
+
+<p>
+This makes the whole system very secure and we can see how it handles packets:
+</p>
+
+<ul>
+<li>
+Lost Packets
+
+<ul>
+<li>
+TCP can know if packets are lost if <span id="Protocols-UDP and TCP-TCP (Transmission Control Protocol)-Device 2"></span><strong id="Device 2">Device 2</strong> does not respond <span id="Protocols-UDP and TCP-TCP (Transmission Control Protocol)-(ACK)"></span><strong id="(ACK)">(ACK)</strong> within a timeout
+
+</ul>
+</ul>
+<p>
+<img src="https://cdn.kastatic.org/ka-perseus-images/b1017461d232cd46fa5b445f80e75568bf31c57c.svg" />
+</p>
+
+<ul>
+<li>
+Out of order packets
+
+</ul>
+<p>
+<img src="https://cdn.kastatic.org/ka-perseus-images/27f4fa1915c98689623e0ee224416c5290afc65a.svg" />
+</p>
+<ul>
+<li>
+The reciever will let the sender know if the something is weird that the <span id="Protocols-UDP and TCP-TCP (Transmission Control Protocol)-(ACK)"></span><strong id="(ACK)">(ACK)</strong> does not match packets being sent
+
+<li>
+The reciever will resend the packets
+
+<li>
+And they the reciever can reassemble the packets using the <span id="Protocols-UDP and TCP-TCP (Transmission Control Protocol)-NUMBER #"></span><strong id="NUMBER #">NUMBER #</strong>
+
+</ul>
+
+</body>
+</html>
