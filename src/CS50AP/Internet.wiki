@@ -1,5 +1,4 @@
 = Contents =
-    - [[#Vocab|Vocab]]
     - [[#The Internet|The Internet]]
         - [[#The Internet#Networks|Networks]]
             - [[#The Internet#Networks#Types of Network|Types of Network]]
@@ -13,25 +12,17 @@
         - [[#Protocols#UDP and TCP|UDP and TCP]]
             - [[#Protocols#UDP and TCP#UDP (User Datagram Protocol)|UDP (User Datagram Protocol)]]
             - [[#Protocols#UDP and TCP#TCP (Transmission Control Protocol)|TCP (Transmission Control Protocol)]]
-
-= Vocab =
-Computing Devices:: *Devices* that can run a *program*
-
-Network Topology:: *Arrangements* of connected devices.
-
-LAN:: Covers Limited Area like house
-
-Bit rate:: Numbers of bit sent per *second*
-
-Bandwidth:: *Maximum* number of *bit rate*
-
-Latency:: *Time* bits takes to _arrive_.
-
-IP:: Internet Protocol, used to handle *routing and addressing*
-
+    - [[#The World Wide Web|The World Wide Web]]
+        - [[#The World Wide Web#DNS|DNS]]
+            - [[#The World Wide Web#DNS#Anatomy of a Domain Name|Anatomy of a Domain Name]]
+            - [[#The World Wide Web#DNS#DNS -> IP|DNS -> IP]]
+        - [[#The World Wide Web#HTTP|HTTP]]
+    - [[#Scalable Systems|Scalable Systems]]
+        - [[#Scalable Systems#Load Testing|Load Testing]]
+    - [[#Internet Protocol Suite|Internet Protocol Suite]]
 
 = The Internet =
-The internet is a *network* of connected _computing devices_.
+The Internet is a *network* of connected _computing devices_.
 
 == Networks ==
 As simple as connecting two devices.
@@ -42,7 +33,7 @@ Device 1 ---- Device 2
 
 - LAN = Covers *limited* area.
 - WAN = Covers *large* area.
-- DCN = Networks used in *Data Centres*
+- DCN = Networks used in *Data Centers*
 
 
 == Measurements of Internet ==
@@ -54,7 +45,7 @@ We have ways to measure speed and so forth
 
 
 = Protocols =
-To communicate with eachother they need a language or a *_protocol_*.
+To communicate with each other they need a language or a *_protocol_*.
 
 The most import is the *IP* (Internet Protocol)
 
@@ -67,7 +58,7 @@ Utilize address -- two versions: IPv4 and IPv6
 Has *FOUR* places and only has number of 0-255 (32 Bits)
 
 === IPv6 ===
-Comrpises of *8* places and uses hexadecimal values.
+Comprises of *8* places and uses hexadecimal values.
 
 Example: *2001:0db8:0000:0042:0000:8a2e:0370:7334*
 
@@ -93,7 +84,7 @@ Example: *2001:0db8:0000:0042:0000:8a2e:0370:7334*
 === IP Packets ===
 Files must be transfered in small sizes -- *Packets*
 
-Each packet cotains a header that has information on how to route it
+Each packet contains a header that has information on how to route it
 - IP address of *destination and source*
 - ETC
 
@@ -103,11 +94,11 @@ Each packet cotains a header that has information on how to route it
 Protocols that computers use to split data and move them router to router until it reaches it's destination
 
 1. Send Packet to *router*
-2. Router looks at *destination ip* and sends it through the closest route (next router)
+2. Router looks at *destination IP* and sends it through the closest route (next router)
 3. Forwards packet using *table*
 4. _Message Reaches Destination_
 
-Since there are many routes the internet is very *redundant*
+Since there are many routes the Internet is very *redundant*
 
 However IP doesn't take care if the packets go missing? Or corruption?
 
@@ -151,8 +142,93 @@ This makes the whole system very secure and we can see how it handles packets:
 
 - Out of order packets
 {{https://cdn.kastatic.org/ka-perseus-images/27f4fa1915c98689623e0ee224416c5290afc65a.svg}}
-	- The reciever will let the sender know if the something is weird that the *(ACK)* does not match packets being sent
-	- The reciever will resend the packets
-	- And they the reciever can reassemble the packets using the *NUMBER #*
+	- The receiver will let the sender know if the something is weird that the *(ACK)* does not match packets being sent
+	- The receiver will resend the packets
+	- And they the receiver can reassemble the packets using the *NUMBER #*
 
+
+
+
+= The World Wide Web =
+The World Wide Web is based on protocols. Some protocols are such:
+
+DNS :: *Domain Name Service* is used to convert names to IP addresses for sending data.
+
+HTTP :: _*Hyper Text Transfer Protocol*_ is used to actually transfer the data that we see in web pages.
+
+TLS :: _*Transport Layer Security*_ is sometimes also used to transfer data over a *secure connection*
+
+These protocols are used in addition on top of the *TCP/IP*
+
+== DNS ==
+DNS helps us to memorize names easier instead of typing in *73.12.125.11* we simply do *wikipedia.org*
+
+=== Anatomy of a Domain Name ===
+A domain name is made up of *3 levels.*
+
+
+[_3rd level_._2nd Level_._*Top Level*_]
+
+
+Top level domains are limited such as *_.com, .edu, .org_*
+
+=== DNS -> IP ===
+Behind the scenes Domain Names are mapped to *IP addresses.* A computer will go through these steps to find the IP of the domain.
+
+1. Checks local cache, which is kept from websites you've recently visited.
+2. Ask *ISP cache*, if your neighbor visited _google.com_ recently the ISP cache will have it.
+3. Ask *ROOT Servers*.
+	a) These servers keep record of which server keeps *records of which top level domain*
+	{{https://cdn.kastatic.org/ka-perseus-images/b1d61ffbee75aaf2d02412b49e97d177fd7e5d73.svg|AnOTHER image|style='height:320px;'}}
+	b) Then those *top level* servers will know the names of which those records are same.
+	{{https://cdn.kastatic.org/ka-perseus-images/c1519163562cff6256ebff41bd4585fc8512ce56.svg|Another Image|style='height:320px;'}}
+	c) Finally it filters for the one that matches the _3rd level domain_
+	{{https://cdn.kastatic.org/ka-perseus-images/206f79ee6a96625d0bea1d730de2b601a3eb635c.svg|An Image|style='height:325px;'}}
+4. The ISP responds with the IP.
+
+
+== HTTP ==
+After it has the IP address it then sends a *HTTP request* to the IP. Which likes this:
+
+    > GET /index.html HTTP/1.1
+    > Host: www.example.com
+
+The server will send back a response which looks like this:
+
+    > HTTP/1.1 200 OK
+Numbers represent status code, which 200 means OK.
+
+
+
+Then the browser renders the HTTP. This process also can be represented with TCP/IP.
+{{https://cdn.kastatic.org/ka-perseus-images/620dfdaef4da77689540ae2155fd6e173605f4e3.svg|An Image|style='height:320px'}}
+
+----
+
+= Scalable Systems =
+To be *scalable* means that you are able to withstand a spike or an increase of users.
+
+In fact the Internet itself is scalable:
+- Routers can be *dynamically added*
+- Nothing stops you from _learning about it_
+
+Apps are also scalable. Something people can do is *_Load Testing_*.
+
+== Load Testing ==
+By using the companies, own computer's they can use it to simulate a *_website under load._*
+
+
+
+
+= Internet Protocol Suite =
+{{https://cdn.kastatic.org/ka-perseus-images/6a0cd3a5b7e709c2f637c959ba98705ad21e4e3c.svg}}
+
+
+Link Layer:: *Two computers* send data over signals
+
+Network Layer:: *(More than two computers)*, they have to uniquely identify each device using *_IP_*.
+
+Transport Layer:: Data has to be broken into packets and, *TCP and UDP* does that.
+
+Application Layer:: HTTP and DNS helps us to see the websites. And if need be *TLS* transfer information securely.
 
