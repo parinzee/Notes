@@ -20,6 +20,8 @@
     - [[#Scalable Systems|Scalable Systems]]
         - [[#Scalable Systems#Load Testing|Load Testing]]
     - [[#Internet Protocol Suite|Internet Protocol Suite]]
+    - [[#Open Protocol|Open Protocol]]
+        - [[#Open Protocol#Importance of Being Open|Importance of Being Open]]
 
 = The Internet =
 The Internet is a *network* of connected _computing devices_.
@@ -231,4 +233,25 @@ Network Layer:: *(More than two computers)*, they have to uniquely identify each
 Transport Layer:: Data has to be broken into packets and, *TCP and UDP* does that.
 
 Application Layer:: HTTP and DNS helps us to see the websites. And if need be *TLS* transfer information securely.
+
+
+
+= Open Protocol =
+There is a need for standardization. Consider this:
+
+{{https://cdn.kastatic.org/ka-perseus-images/d3755131b4baa6b4a6b7041440253ece3a4a43ef.svg}}
+
+They don't follow the same protocol so they fail to communicate.
+
+If they agree on one *standard* they can agree on what represents what. This will be what happens.
+
+{{https://cdn.kastatic.org/ka-perseus-images/590c554a26ce6f3e1aedac9b20315690780e8941.svg}}
+
+== Importance of Being Open ==
+It's important because every computer can join without *proprietary technology.* 
+
+Difference:
+- *People can contribute*
+- *Join without cost.*
+- *You simply have to make sure your device complies by the standard.*
 
