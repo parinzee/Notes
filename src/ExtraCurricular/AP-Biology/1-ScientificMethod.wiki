@@ -1,0 +1,51 @@
+
+= The Scientific Method =
+A method of thinking!
+
+= Contents =
+    - [[#The Scientific Method|The Scientific Method]]
+        - [[#The Scientific Method#Procedures|Procedures]]
+        - [[#The Scientific Method#Controlled Experiments|Controlled Experiments]]
+            - [[#The Scientific Method#Controlled Experiments#Groups|Groups]]
+            - [[#The Scientific Method#Controlled Experiments#Independent and Dependent Variables|Independent and Dependent Variables]]
+            - [[#The Scientific Method#Controlled Experiments#Sample Size|Sample Size]]
+
+== Procedures ==
+1. Observation
+2. Ask a question --> *Why*?
+3. Hypothesis --> *Testable Explanation*
+4. Make a prediction:
+	1. If *X* is true, *Y* must be true.
+5. Design and Test
+6. *Iterate and Improve*
+
+*The Key is _REPRODUCIBILITY_*
+
+== Controlled Experiments ==
+Are the experiments that are used in step 5.
+
+The experiments have to follow like this
+	- Control and Experiment *Groups*
+	- Independent and Dependent Variables
+	- All other variables be *controlled* 
+
+=== Groups ===
+- *Experiment Groups*
+	- These are for testing out the hypothesis
+	- EG: New Drug
+
+- *Control Groups*
+	- This group is for comparison to the Experiment Groups
+	- EG: Old Drug
+
+=== Independent and Dependent Variables ===
+- *Independent Variables*
+	- Variables that are *tested and will affect other variables*
+
+- *Dependent Variables*
+	- Variables that are *affected by the independent variables and are measured*
+
+=== Sample Size ===
+Ideally it is good to use a *large sample size and repeat many times*
+
+_Done to avoid randomness_

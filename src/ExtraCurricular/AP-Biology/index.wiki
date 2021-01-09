@@ -1,0 +1,2 @@
+= Generated Links =
+    - [[1-ScientificMethod]]

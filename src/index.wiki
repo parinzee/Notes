@@ -1,0 +1,26 @@
+= Notes Library =
+Parin's Personal Notes Library
+
+== G8 ==
+[[G8/Q3/index]]
+
+== APs and KVIS ==
+[[ExtraCurricular/AP-Biology/index]]
+
+[[ExtraCurricular/AP-Chemistry/index]]
+
+[[ExtraCurricular/CS50AP/index]]
+
+----
+
+TODO: 
+- Organic Chemistry
+- Material Science
+- Development of Periodic Tables
+- Biochemistry
+- Microbiology
+- Biotechnology
+- Stem Cells and DNA
+- Micro climate Air Pollution 
+
+
