@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<link rel="Stylesheet" type="text/css" href="style.css">
+<link rel="Stylesheet" type="text/css" href="../style.css">
 <title>Internet</title>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -10,9 +10,6 @@
 
 <div id="Contents" class="toc"><h1 id="Contents">Contents</a></h1></div>
 <ul>
-<li>
-<a href="Internet.html#Vocab">Vocab</a>
-
 <li>
 <a href="Internet.html#The Internet">The Internet</a>
 
@@ -62,48 +59,49 @@
 
 </ul>
 </ul>
+<li>
+<a href="Internet.html#The World Wide Web">The World Wide Web</a>
+
+<ul>
+<li>
+<a href="Internet.html#The World Wide Web-DNS">DNS</a>
+
+<ul>
+<li>
+<a href="Internet.html#The World Wide Web-DNS-Anatomy of a Domain Name">Anatomy of a Domain Name</a>
+
+<li>
+<a href="Internet.html#The World Wide Web-DNS-DNS -&gt; IP">DNS -&gt; IP</a>
+
 </ul>
+<li>
+<a href="Internet.html#The World Wide Web-HTTP">HTTP</a>
 
-<div id="Vocab"><h1 id="Vocab" class="header"><a href="#Vocab">Vocab</a></h1></div>
-<dl>
-<dt>Computing Devices</dt>
-<dd><span id="Vocab-Devices"></span><strong id="Devices">Devices</strong> that can run a <span id="Vocab-program"></span><strong id="program">program</strong></dd>
-</dl>
+</ul>
+<li>
+<a href="Internet.html#Scalable Systems">Scalable Systems</a>
 
-<dl>
-<dt>Network Topology</dt>
-<dd><span id="Vocab-Arrangements"></span><strong id="Arrangements">Arrangements</strong> of connected devices.</dd>
-</dl>
+<ul>
+<li>
+<a href="Internet.html#Scalable Systems-Load Testing">Load Testing</a>
 
-<dl>
-<dt>LAN</dt>
-<dd>Covers Limited Area like house</dd>
-</dl>
+</ul>
+<li>
+<a href="Internet.html#Internet Protocol Suite">Internet Protocol Suite</a>
 
-<dl>
-<dt>Bit rate</dt>
-<dd>Numbers of bit sent per <span id="Vocab-second"></span><strong id="second">second</strong></dd>
-</dl>
+<li>
+<a href="Internet.html#Open Protocol">Open Protocol</a>
 
-<dl>
-<dt>Bandwidth</dt>
-<dd><span id="Vocab-Maximum"></span><strong id="Maximum">Maximum</strong> number of <span id="Vocab-bit rate"></span><strong id="bit rate">bit rate</strong></dd>
-</dl>
+<ul>
+<li>
+<a href="Internet.html#Open Protocol-Importance of Being Open">Importance of Being Open</a>
 
-<dl>
-<dt>Latency</dt>
-<dd><span id="Vocab-Time"></span><strong id="Time">Time</strong> bits takes to <em>arrive</em>.</dd>
-</dl>
-
-<dl>
-<dt>IP</dt>
-<dd>Internet Protocol, used to handle <span id="Vocab-routing and addressing"></span><strong id="routing and addressing">routing and addressing</strong></dd>
-</dl>
-
+</ul>
+</ul>
 
 <div id="The Internet"><h1 id="The Internet" class="header"><a href="#The Internet">The Internet</a></h1></div>
 <p>
-The internet is a <span id="The Internet-network"></span><strong id="network">network</strong> of connected <em>computing devices</em>.
+The Internet is a <span id="The Internet-network"></span><strong id="network">network</strong> of connected <em>computing devices</em>.
 </p>
 
 <div id="The Internet-Networks"><h2 id="Networks" class="header"><a href="#The Internet-Networks">Networks</a></h2></div>
@@ -125,7 +123,7 @@ LAN = Covers <span id="The Internet-Networks-Types of Network-limited"></span><s
 WAN = Covers <span id="The Internet-Networks-Types of Network-large"></span><strong id="large">large</strong> area.
 
 <li>
-DCN = Networks used in <span id="The Internet-Networks-Types of Network-Data Centres"></span><strong id="Data Centres">Data Centres</strong>
+DCN = Networks used in <span id="The Internet-Networks-Types of Network-Data Centers"></span><strong id="Data Centers">Data Centers</strong>
 
 </ul>
 
@@ -150,7 +148,7 @@ We have ways to measure speed and so forth
 
 <div id="Protocols"><h1 id="Protocols" class="header"><a href="#Protocols">Protocols</a></h1></div>
 <p>
-To communicate with eachother they need a language or a <span id="Protocols-<em>protocol</em>"></span><strong id="<em>protocol</em>"><em>protocol</em></strong>.
+To communicate with each other they need a language or a <span id="Protocols-<em>protocol</em>"></span><strong id="<em>protocol</em>"><em>protocol</em></strong>.
 </p>
 
 <p>
@@ -173,7 +171,7 @@ Has <span id="Protocols-IP Protocol-IPv4-FOUR"></span><strong id="FOUR">FOUR</st
 
 <div id="Protocols-IP Protocol-IPv6"><h3 id="IPv6" class="header"><a href="#Protocols-IP Protocol-IPv6">IPv6</a></h3></div>
 <p>
-Comrpises of <span id="Protocols-IP Protocol-IPv6-8"></span><strong id="8">8</strong> places and uses hexadecimal values.
+Comprises of <span id="Protocols-IP Protocol-IPv6-8"></span><strong id="8">8</strong> places and uses hexadecimal values.
 </p>
 
 <p>
@@ -318,7 +316,7 @@ Files must be transfered in small sizes -- <span id="Protocols-IP Protocol-IP Pa
 </p>
 
 <p>
-Each packet cotains a header that has information on how to route it
+Each packet contains a header that has information on how to route it
 </p>
 <ul>
 <li>
@@ -343,7 +341,7 @@ Protocols that computers use to split data and move them router to router until 
 Send Packet to <span id="Protocols-Internet Routing Protocol-router"></span><strong id="router">router</strong>
 
 <li>
-Router looks at <span id="Protocols-Internet Routing Protocol-destination ip"></span><strong id="destination ip">destination ip</strong> and sends it through the closest route (next router)
+Router looks at <span id="Protocols-Internet Routing Protocol-destination IP"></span><strong id="destination IP">destination IP</strong> and sends it through the closest route (next router)
 
 <li>
 Forwards packet using <span id="Protocols-Internet Routing Protocol-table"></span><strong id="table">table</strong>
@@ -354,7 +352,7 @@ Forwards packet using <span id="Protocols-Internet Routing Protocol-table"></spa
 </ol>
 
 <p>
-Since there are many routes the internet is very <span id="Protocols-Internet Routing Protocol-redundant"></span><strong id="redundant">redundant</strong>
+Since there are many routes the Internet is very <span id="Protocols-Internet Routing Protocol-redundant"></span><strong id="redundant">redundant</strong>
 </p>
 
 <p>
@@ -469,13 +467,221 @@ Out of order packets
 </p>
 <ul>
 <li>
-The reciever will let the sender know if the something is weird that the <span id="Protocols-UDP and TCP-TCP (Transmission Control Protocol)-(ACK)"></span><strong id="(ACK)">(ACK)</strong> does not match packets being sent
+The receiver will let the sender know if the something is weird that the <span id="Protocols-UDP and TCP-TCP (Transmission Control Protocol)-(ACK)"></span><strong id="(ACK)">(ACK)</strong> does not match packets being sent
 
 <li>
-The reciever will resend the packets
+The receiver will resend the packets
 
 <li>
-And they the reciever can reassemble the packets using the <span id="Protocols-UDP and TCP-TCP (Transmission Control Protocol)-NUMBER #"></span><strong id="NUMBER #">NUMBER #</strong>
+And they the receiver can reassemble the packets using the <span id="Protocols-UDP and TCP-TCP (Transmission Control Protocol)-NUMBER #"></span><strong id="NUMBER #">NUMBER #</strong>
+
+</ul>
+
+
+
+
+<div id="The World Wide Web"><h1 id="The World Wide Web" class="header"><a href="#The World Wide Web">The World Wide Web</a></h1></div>
+<p>
+The World Wide Web is based on protocols. Some protocols are such:
+</p>
+
+<dl>
+<dt>DNS </dt>
+<dd><span id="The World Wide Web-Domain Name Service"></span><strong id="Domain Name Service">Domain Name Service</strong> is used to convert names to IP addresses for sending data.</dd>
+</dl>
+
+<dl>
+<dt>HTTP </dt>
+<dd><em><span id="The World Wide Web-Hyper Text Transfer Protocol"></span><strong id="Hyper Text Transfer Protocol">Hyper Text Transfer Protocol</strong></em> is used to actually transfer the data that we see in web pages.</dd>
+</dl>
+
+<dl>
+<dt>TLS </dt>
+<dd><em><span id="The World Wide Web-Transport Layer Security"></span><strong id="Transport Layer Security">Transport Layer Security</strong></em> is sometimes also used to transfer data over a <span id="The World Wide Web-secure connection"></span><strong id="secure connection">secure connection</strong></dd>
+</dl>
+
+<p>
+These protocols are used in addition on top of the <span id="The World Wide Web-TCP/IP"></span><strong id="TCP/IP">TCP/IP</strong>
+</p>
+
+<div id="The World Wide Web-DNS"><h2 id="DNS" class="header"><a href="#The World Wide Web-DNS">DNS</a></h2></div>
+<p>
+DNS helps us to memorize names easier instead of typing in <span id="The World Wide Web-DNS-73.12.125.11"></span><strong id="73.12.125.11">73.12.125.11</strong> we simply do <span id="The World Wide Web-DNS-wikipedia.org"></span><strong id="wikipedia.org">wikipedia.org</strong>
+</p>
+
+<div id="The World Wide Web-DNS-Anatomy of a Domain Name"><h3 id="Anatomy of a Domain Name" class="header"><a href="#The World Wide Web-DNS-Anatomy of a Domain Name">Anatomy of a Domain Name</a></h3></div>
+<p>
+A domain name is made up of <span id="The World Wide Web-DNS-Anatomy of a Domain Name-3 levels."></span><strong id="3 levels.">3 levels.</strong>
+</p>
+
+
+<p>
+[<em>3rd level</em>.<em>2nd Level</em>.<em><span id="The World Wide Web-DNS-Anatomy of a Domain Name-Top Level"></span><strong id="Top Level">Top Level</strong></em>]
+</p>
+
+
+<p>
+Top level domains are limited such as <span id="The World Wide Web-DNS-Anatomy of a Domain Name-<em>.com, .edu, .org</em>"></span><strong id="<em>.com, .edu, .org</em>"><em>.com, .edu, .org</em></strong>
+</p>
+
+<div id="The World Wide Web-DNS-DNS -&gt; IP"><h3 id="DNS -&gt; IP" class="header"><a href="#The World Wide Web-DNS-DNS -&gt; IP">DNS -&gt; IP</a></h3></div>
+<p>
+Behind the scenes Domain Names are mapped to <span id="The World Wide Web-DNS-DNS -&gt; IP-IP addresses."></span><strong id="IP addresses.">IP addresses.</strong> A computer will go through these steps to find the IP of the domain.
+</p>
+
+<ol>
+<li>
+Checks local cache, which is kept from websites you've recently visited.
+
+<li>
+Ask <span id="The World Wide Web-DNS-DNS -&gt; IP-ISP cache"></span><strong id="ISP cache">ISP cache</strong>, if your neighbor visited <em>google.com</em> recently the ISP cache will have it.
+
+<li>
+Ask <span id="The World Wide Web-DNS-DNS -&gt; IP-ROOT Servers"></span><strong id="ROOT Servers">ROOT Servers</strong>.
+
+<ol>
+<li>
+These servers keep record of which server keeps <span id="The World Wide Web-DNS-DNS -&gt; IP-records of which top level domain"></span><strong id="records of which top level domain">records of which top level domain</strong>
+	<img src="https://cdn.kastatic.org/ka-perseus-images/b1d61ffbee75aaf2d02412b49e97d177fd7e5d73.svg" alt="AnOTHER image" style='height:320px;' />
+
+<li>
+Then those <span id="The World Wide Web-DNS-DNS -&gt; IP-top level"></span><strong id="top level">top level</strong> servers will know the names of which those records are same.
+	<img src="https://cdn.kastatic.org/ka-perseus-images/c1519163562cff6256ebff41bd4585fc8512ce56.svg" alt="Another Image" style='height:320px;' />
+
+<li>
+Finally it filters for the one that matches the <em>3rd level domain</em>
+	<img src="https://cdn.kastatic.org/ka-perseus-images/206f79ee6a96625d0bea1d730de2b601a3eb635c.svg" alt="An Image" style='height:325px;' />
+
+</ol>
+<li>
+The ISP responds with the IP.
+
+</ol>
+
+
+<div id="The World Wide Web-HTTP"><h2 id="HTTP" class="header"><a href="#The World Wide Web-HTTP">HTTP</a></h2></div>
+<p>
+After it has the IP address it then sends a <span id="The World Wide Web-HTTP-HTTP request"></span><strong id="HTTP request">HTTP request</strong> to the IP. Which likes this:
+</p>
+<blockquote>
+&gt; GET /index.html HTTP/1.1
+&gt; Host: www.example.com
+</blockquote>
+
+<p>
+The server will send back a response which looks like this:
+</p>
+<blockquote>
+&gt; HTTP/1.1 200 OK
+</blockquote>
+<p>
+Numbers represent status code, which 200 means OK.
+</p>
+
+
+
+<p>
+Then the browser renders the HTTP. This process also can be represented with TCP/IP.
+<img src="https://cdn.kastatic.org/ka-perseus-images/620dfdaef4da77689540ae2155fd6e173605f4e3.svg" alt="An Image" style='height:320px' />
+</p>
+
+<hr />
+
+<div id="Scalable Systems"><h1 id="Scalable Systems" class="header"><a href="#Scalable Systems">Scalable Systems</a></h1></div>
+<p>
+To be <span id="Scalable Systems-scalable"></span><strong id="scalable">scalable</strong> means that you are able to withstand a spike or an increase of users.
+</p>
+
+<p>
+In fact the Internet itself is scalable:
+</p>
+<ul>
+<li>
+Routers can be <span id="Scalable Systems-dynamically added"></span><strong id="dynamically added">dynamically added</strong>
+
+<li>
+Nothing stops you from <em>learning about it</em>
+
+</ul>
+
+<p>
+Apps are also scalable. Something people can do is <span id="Scalable Systems-<em>Load Testing</em>"></span><strong id="<em>Load Testing</em>"><em>Load Testing</em></strong>.
+</p>
+
+<div id="Scalable Systems-Load Testing"><h2 id="Load Testing" class="header"><a href="#Scalable Systems-Load Testing">Load Testing</a></h2></div>
+<p>
+By using the companies, own computer's they can use it to simulate a <span id="Scalable Systems-Load Testing-<em>website under load.</em>"></span><strong id="<em>website under load.</em>"><em>website under load.</em></strong>
+</p>
+
+
+
+
+<div id="Internet Protocol Suite"><h1 id="Internet Protocol Suite" class="header"><a href="#Internet Protocol Suite">Internet Protocol Suite</a></h1></div>
+<p>
+<img src="https://cdn.kastatic.org/ka-perseus-images/6a0cd3a5b7e709c2f637c959ba98705ad21e4e3c.svg" />
+</p>
+
+
+<dl>
+<dt>Link Layer</dt>
+<dd><span id="Internet Protocol Suite-Two computers"></span><strong id="Two computers">Two computers</strong> send data over signals</dd>
+</dl>
+
+<dl>
+<dt>Network Layer</dt>
+<dd><span id="Internet Protocol Suite-(More than two computers)"></span><strong id="(More than two computers)">(More than two computers)</strong>, they have to uniquely identify each device using <span id="Internet Protocol Suite-<em>IP</em>"></span><strong id="<em>IP</em>"><em>IP</em></strong>.</dd>
+</dl>
+
+<dl>
+<dt>Transport Layer</dt>
+<dd>Data has to be broken into packets and, <span id="Internet Protocol Suite-TCP and UDP"></span><strong id="TCP and UDP">TCP and UDP</strong> does that.</dd>
+</dl>
+
+<dl>
+<dt>Application Layer</dt>
+<dd>HTTP and DNS helps us to see the websites. And if need be <span id="Internet Protocol Suite-TLS"></span><strong id="TLS">TLS</strong> transfer information securely.</dd>
+</dl>
+
+
+
+<div id="Open Protocol"><h1 id="Open Protocol" class="header"><a href="#Open Protocol">Open Protocol</a></h1></div>
+<p>
+There is a need for standardization. Consider this:
+</p>
+
+<p>
+<img src="https://cdn.kastatic.org/ka-perseus-images/d3755131b4baa6b4a6b7041440253ece3a4a43ef.svg" />
+</p>
+
+<p>
+They don't follow the same protocol so they fail to communicate.
+</p>
+
+<p>
+If they agree on one <span id="Open Protocol-standard"></span><strong id="standard">standard</strong> they can agree on what represents what. This will be what happens.
+</p>
+
+<p>
+<img src="https://cdn.kastatic.org/ka-perseus-images/590c554a26ce6f3e1aedac9b20315690780e8941.svg" />
+</p>
+
+<div id="Open Protocol-Importance of Being Open"><h2 id="Importance of Being Open" class="header"><a href="#Open Protocol-Importance of Being Open">Importance of Being Open</a></h2></div>
+<p>
+It's important because every computer can join without <span id="Open Protocol-Importance of Being Open-proprietary technology."></span><strong id="proprietary technology.">proprietary technology.</strong> 
+</p>
+
+<p>
+Difference:
+</p>
+<ul>
+<li>
+<span id="Open Protocol-Importance of Being Open-People can contribute"></span><strong id="People can contribute">People can contribute</strong>
+
+<li>
+<span id="Open Protocol-Importance of Being Open-Join without cost."></span><strong id="Join without cost.">Join without cost.</strong>
+
+<li>
+<span id="Open Protocol-Importance of Being Open-You simply have to make sure your device complies by the standard."></span><strong id="You simply have to make sure your device complies by the standard.">You simply have to make sure your device complies by the standard.</strong>
 
 </ul>
 
