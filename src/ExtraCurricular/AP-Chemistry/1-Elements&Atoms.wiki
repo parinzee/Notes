@@ -3,6 +3,8 @@
     - [[#Atoms|Atoms]]
     - [[#Atomic Mass Unit / Unified Atomic Mass|Atomic Mass Unit / Unified Atomic Mass]]
         - [[#Atomic Mass Unit / Unified Atomic Mass#Isotopes|Isotopes]]
+    - [[#Avogadro's Number|Avogadro's Number]]
+    - [[#Mole|Mole]]
 
 = Elements =
 The smallest part of something that still is *that something*
@@ -29,7 +31,7 @@ Elements are made of even more fundamental things which are *atoms*
 = Atomic Mass Unit / Unified Atomic Mass=
 It is another measuring system
 
-1_u_ = 1.660540 x 10<sub>-27</sub>
+1_u_ = 1.660540 x 10<sup>-27</sup>
 
 1 Proton ≈ 1_u_
 1 Neutron ≈ 1_u_
@@ -63,11 +65,12 @@ If you wanted to turn:
 
 6.94_u_ of Lithium -------------> 6.94_g_ of Lithium
 
-To do this you do *6.022 x 10*<sub>-23</sub>
+To do this you do *6.022 x 10*<sup>-23</sup>
 That number is Avogadro's number
 
 = Mole =
 A mole is a representation of the *Avogadro's number*
 
-1 Mole of Lithium is = 6.022x10<sub>-23</sub> LI
+1 Mole of Lithium is = 6.022x10<sup>-23</sup> LI
 
+In this case a Mole of Lithium is 6.94g
