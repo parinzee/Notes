@@ -263,6 +263,9 @@ Difference:
 
 ----
 = Global Digital Divide =
+
+*_Global Digital Divide_*:: Basically, *difference* between a *group of people's* _access to the *Internet.*_
+
 Internet is not accessible to everyone across the globe. 
 
 {{https://cdn.kastatic.org/ka-perseus-images/0e642af1d05e394aebead1b47dfdac63e3d15e3c.svg}}
