@@ -280,7 +280,7 @@ It costs a lot to build infrastructure for the Internet so some countries do not
 - Island Nations
 	- *Long _overseas_ cables*
 
-- Terrian
+- Terrain
 	- *Through the mountains cable*
 
 == Government Restrictions ==
