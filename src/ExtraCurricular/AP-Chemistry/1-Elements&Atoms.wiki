@@ -1,0 +1,73 @@
+= Contents =
+    - [[#Elements|Elements]]
+    - [[#Atoms|Atoms]]
+    - [[#Atomic Mass Unit / Unified Atomic Mass|Atomic Mass Unit / Unified Atomic Mass]]
+        - [[#Atomic Mass Unit / Unified Atomic Mass#Isotopes|Isotopes]]
+
+= Elements =
+The smallest part of something that still is *that something*
+
+{{https://www.wuwm.com/sites/wuwm/files/styles/x_large/public/201912/AdobeStock_238869971.jpg}}
+- The number on top is the *Protons*
+- Number on the bottom is the *Atomic Mass (_u_)*
+
+= Atoms =
+Elements are made of even more fundamental things which are *atoms*
+
+- Protons = Positive Charge
+	- *Can't* change
+- Neutrons = Neutral Charge
+	- *Can* Change
+- Electrons = Negative Charge
+	- *Can* Change
+
+		If Proton is changed, the element changes
+		If Neutron or Electron is changed the *Isotope* changes
+
+{{https://www.gedonlineclass.net/Curric/atom1.jpg}}
+
+= Atomic Mass Unit / Unified Atomic Mass=
+It is another measuring system
+
+1_u_ = 1.660540 x 10<sub>-27</sub>
+
+1 Proton ≈ 1_u_
+1 Neutron ≈ 1_u_
+1 Electron - *Too small*
+
+== Isotopes ==
+Take a look at the Hydrogen Atom it's mass is 1.0008
+
+- 1 Proton
+- 1 Electron
+
+*Many versions of these exists*, different versions are called *Isotopes*
+
+So a hydrogen with 1 Proton, 1 Neutron, and 1 Electron exists.
+_u_ ≈ 2
+
+----
+The number on the bottom is actually all the *Weighted Mass of All Isotopes*
+
+- Isotope 1 exists 80% in the environment and has a weight of 5_u_
+- Isotope 2 exists 20% in the environment and has a weight of 6_u_
+
+	 0.8(5_u_) + 0.2(6_u_) = 5.2
+	 
+Average Atomic Mass:: Weighted Mass of All Isotopes
+
+----
+
+= Avogadro's Number =
+If you wanted to turn:
+
+6.94_u_ of Lithium -------------> 6.94_g_ of Lithium
+
+To do this you do *6.022 x 10*<sub>-23</sub>
+That number is Avogadro's number
+
+= Mole =
+A mole is a representation of the *Avogadro's number*
+
+1 Mole of Lithium is = 6.022x10<sub>-23</sub> LI
+
