@@ -22,6 +22,11 @@
     - [[#Internet Protocol Suite|Internet Protocol Suite]]
     - [[#Open Protocol|Open Protocol]]
         - [[#Open Protocol#Importance of Being Open|Importance of Being Open]]
+    - [[#Global Digital Divide|Global Digital Divide]]
+        - [[#Global Digital Divide#Geography|Geography]]
+        - [[#Global Digital Divide#Government Restrictions|Government Restrictions]]
+    - [[#Geographic Digital Divide|Geographic Digital Divide]]
+    - [[#Socioeconomic Divide|Socioeconomic Divide]]
 
 = The Internet =
 The Internet is a *network* of connected _computing devices_.
@@ -254,4 +259,46 @@ Difference:
 - *People can contribute*
 - *Join without cost.*
 - *You simply have to make sure your device complies by the standard.*
+
+
+----
+= Global Digital Divide =
+Internet is not accessible to everyone across the globe. 
+
+{{https://cdn.kastatic.org/ka-perseus-images/0e642af1d05e394aebead1b47dfdac63e3d15e3c.svg}}
+
+It costs a lot to build infrastructure for the Internet so some countries do not have the budget. There are also other factors.
+
+
+== Geography ==
+- Big Nations
+	- *Long expensive cables*
+
+- Island Nations
+	- *Long _overseas_ cables*
+
+- Terrian
+	- *Through the mountains cable*
+
+== Government Restrictions ==
+Some governments restrict access to the Internet such as
+
+- North Korea
+	- Only 1,024 IPs available for the whole counrty
+- Iran
+	- During a revolt they've shut down their own Internet
+- Russia
+	- Building a *Kill-Switch* to shutdown redundant systems
+
+
+= Geographic Digital Divide =
+Even in country, access to the Internet is not equal for everyone. People in *Urban areas have better Internet.*	
+
+{{https://cdn.kastatic.org/ka-perseus-images/5f7a00b0b8ea5f1317f1aac5dbc6f702002c7bf5.png}}
+
+Some programs try to help these like the _FCC Connect America_
+
+= Socioeconomic Divide =
+People do not have the same income so they also can't afford Internet.
+
 
