@@ -76,4 +76,4 @@ A mole is a representation of the *Avogadro's number*
 In this case a Mole of Lithium is 6.94 _g_
 
 ----
-# [[file:Atoms.pdf]]
+# [[local:Atoms.pdf]]
