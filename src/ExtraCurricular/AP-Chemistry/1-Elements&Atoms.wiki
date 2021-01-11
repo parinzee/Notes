@@ -33,9 +33,9 @@ It is another measuring system
 
 1 _u_ = 1.660540 x 10<sup>-27</sup>
 
-1 Proton ≈ 1 _u_
-1 Neutron ≈ 1 _u_
-1 Electron - *Too small*
+- 1 Proton ≈ 1 _u_
+- 1 Neutron ≈ 1 _u_
+- 1 Electron - *Too small*
 
 == Isotopes ==
 Take a look at the Hydrogen Atom it's mass is 1.0008
