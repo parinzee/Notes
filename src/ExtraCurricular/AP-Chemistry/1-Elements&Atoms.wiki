@@ -33,7 +33,7 @@ It is another measuring system
 
 1 _u_ = 1.660540 x 10<sup>-27</sup>
 
-- 1 Proton ≈ 1 _u_
+- 2 Proton ≈ 1 _u_
 - 1 Neutron ≈ 1 _u_
 - 1 Electron - *Too small*
 
@@ -54,7 +54,7 @@ The number on the bottom is actually all the *Weighted Mass of All Isotopes*
 - Isotope 1 exists 80% in the environment and has a weight of 5 _u_
 - Isotope 2 exists 20% in the environment and has a weight of 6 _u_
 
-	 [[0.8]](5 _u_) + 0.2(6 _u_) = 5.2
+	 0.8(5 _u_) + 0.2(6 _u_) = 5.2
 	 
 Average Atomic Mass:: Weighted Mass of All Isotopes
 
@@ -74,3 +74,6 @@ A mole is a representation of the *Avogadro's number*
 1 Mole of Lithium is = 6.022x10<sup>-23</sup> LI
 
 In this case a Mole of Lithium is 6.94 _g_
+
+----
+# [[file:Atoms.pdf]]
