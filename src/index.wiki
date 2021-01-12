@@ -11,6 +11,8 @@ Parin's Personal Notes Library
 
 [[ExtraCurricular/CS50AP/index]]
 
+[[ExtraCurricular/Astronomy-Cosmology/index]]
+
 ----
 
 TODO: 
