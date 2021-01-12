@@ -1,0 +1,36 @@
+= Contents =
+    - [[#Ions|Ions]]
+    - [[#Naming Ions and Ionic Compounds|Naming Ions and Ionic Compounds]]
+
+= Ions =
+A normal *Carbon Atom* has:
+- 6 Protons
+- 6 Neutrons
+- 6 Electrons
+
+This carbon atom is *_NEUTRAL_*
+
+
+----
+However when the charges are *not* neutral
+it is called an
+:: *Ion*!
+
+An Ion has two types:
+- *Cation* --> _Positive_
+- *Anion* --> Negative
+
+<sup>12</sup>C<sup>-</sup> would be called a *Carbon Anion*
+<sup>12</sup>C<sup>+</sup> would be called a *Carbon Cation*
+
+= Naming Ions and Ionic Compounds =
+{{https://keystagewiki.com/images/thumb/8/86/PeriodicTableKS3.png/1000px-PeriodicTableKS3.png|Periodic Table|style="height: 500px;"}}
+- Groups with *low numbers* lose *electrons*
+- Groups with *high numbers* gain *electrons*
+
+When a *Potassium Cation + Chlorine Anion* (K<sup>+</sup>Cl<sup>-</sup>) bonds, it's called:
+
+:: Potassium *Chloride*
+You add *-ide* for the *anion*
+(You don't add anything for Potassium since we know it *exchanges bonds*)
+
