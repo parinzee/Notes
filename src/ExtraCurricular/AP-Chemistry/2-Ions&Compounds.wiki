@@ -31,6 +31,8 @@ An Ion has two types:
 When a *Potassium Cation + Chlorine Anion* (K<sup>+</sup>Cl<sup>-</sup>) bonds, it's called:
 
 :: Potassium *Chloride*
-You add *-ide* for the *anion*
+IMPORTANT: You add *-ide* for *_ALL_* the *anions*
 (You don't add anything for Potassium since we know it *exchanges bonds*)
+
+= Covalent Bonds =
 

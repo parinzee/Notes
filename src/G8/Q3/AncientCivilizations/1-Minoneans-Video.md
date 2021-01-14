@@ -18,10 +18,10 @@ Thus it was divided into four periods:
 
 3. **Neopalatial (New Palace)** === 1700 BC -> 1400 BC
 
-    - Floods wiped out the old palaces
+    - Floods wiped out the old palaces so they rebuilt new ones
     - **APEX of Civilization**
         - Trade -> _Minoans Pottery_
-        - New Competitor -> **Myceneans**
+        - **1600 BC:** New Competitor -> **Myceneans**
 
 4. **Postpalatial (Final Palace)** === 1400 BC -> 1150 BC
     - The Myceneans took over Minoans
@@ -80,3 +80,13 @@ The reconstruction:
 
 -   No walls
     -   Evidence suggests they conquered the whole island === **No threat**
+
+# End
+
+**Two Scenarios**
+
+-   A flood could've wiped out the _defensive fleet_
+
+    -   Allowed for _Myceneans to invade_
+
+-   _Myceneans simply conquered them_

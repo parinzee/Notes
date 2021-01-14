@@ -2,3 +2,4 @@
 
 = Generated Links =
     - [[1-Elements&Atoms]]
+	- [[2-Ions&Compounds]]
