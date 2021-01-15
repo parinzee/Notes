@@ -1,6 +1,11 @@
 = Contents =
     - [[#Ions|Ions]]
     - [[#Naming Ions and Ionic Compounds|Naming Ions and Ionic Compounds]]
+    - [[#Covalent Bonds: Molecule|Covalent Bonds: Molecule]]
+        - [[#Covalent Bonds: Molecule#Chemical Formulas|Chemical Formulas]]
+        - [[#Covalent Bonds: Molecule#Structural Formulas|Structural Formulas]]
+    - [[#Ions and Ionic Bond|Ions and Ionic Bond]]
+        - [[#Ions and Ionic Bond#Drawing Ionic Bonds|Drawing Ionic Bonds]]
 
 = Ions =
 A normal *Carbon Atom* has:
@@ -34,5 +39,59 @@ When a *Potassium Cation + Chlorine Anion* (K<sup>+</sup>Cl<sup>-</sup>) bonds, 
 IMPORTANT: You add *-ide* for *_ALL_* the *anions*
 (You don't add anything for Potassium since we know it *exchanges bonds*)
 
-= Covalent Bonds =
+= Covalent Bonds: Molecule =
+Formed when two atoms share electron.
+{{https://cdn.kastatic.org/ka-perseus-images/05a6dc6da313e24f2f29849b3c8cba5da17e9730.svg}}
 
+--> Forms a *Molecule* and can be represented by:
+
+== Chemical Formulas ==
+C<sub>2</sub>H<sub>4</sub>O<sub>2</sub>
+
+A molecule of *Acetic acid*:
+- 2 Carbon
+- 4 Hydrogen
+- 2 Oxygen 
+
+However it could also be written as:
+CH<sub>3</sub>COOH
+
+== Structural Formulas ==
+Gives a sense of *structure*
+
+NH3:
+{{https://cdn.kastatic.org/ka-perseus-images/418aa650c9cbe92c4ea3792543312190a8b332b2.png|Image|300x200}}
+
+- The left one
+	- 2D approach
+- The right one
+	- 3D approach
+	- *Dashed indicates is at the back*
+	- *Bold wedge == At the front*
+	- The other is off to the side
+
+{{https://cdn.kastatic.org/ka-perseus-images/e69acd6966cf0003fc948afc91323bf4c9012eef.png}}
+
+Arrangement known as *_trigonal pyramidal_*
+
+
+= Ions and Ionic Bond =
+Atoms ---> Ions | *Gains or Lose Charge*
+
+In an *Ionic Bond* they *don't share* electrons:
+- One atom will take the other's electron
+- One --> Postive
+- 2nd --> Negative
+
+Results in a strong attraction
+{{https://cdn.kastatic.org/ka-perseus-images/f5f23abfd0f2680b255b367dd260524613a69f1a.jpg}}
+
+== Drawing Ionic Bonds ==
+{{https://cdn.kastatic.org/ka-perseus-images/5ea8232d69862ad00d65c8d625907b7e1b04172e.jpg}}
+
+The : around Cl means the *electrons*
+However, Ionic Bonds *do not* exist in molecules, this is what they look like:
+
+{{https://cdn.kastatic.org/ka-perseus-images/99e84686a2a3381cdbf8e264a8b94dd1a9c26f41.jpg}}
+
+*Ionic Bonds exist in _formula units_*
