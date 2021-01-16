@@ -2,6 +2,10 @@
     - [[#Ancient Greek of Myceneans|Ancient Greek of Myceneans]]
     - [[#Culture|Culture]]
         - [[#Culture#Mycenean Language|Mycenean Language]]
+        - [[#Culture#Mycenean City and Buildings|Mycenean City and Buildings]]
+        - [[#Culture#Mycenean Kings|Mycenean Kings]]
+        - [[#Culture#Mycenean Economy|Mycenean Economy]]
+    - [[#Mycenean Collapse|Mycenean Collapse]]
 
 = Ancient Greek of Myceneans =
 Started during the *Bronze Age*:
@@ -39,3 +43,33 @@ TIMELINE Comparison:
 Both actually do contain similarities, however B was *different enough.*
 
 == Mycenean City and Buildings ==
+- Built on top of *hills*
+- Consists of *citadels and royal palaces*
+- Used *stones*
+
+== Mycenean Kings ==
+- Ruled by *one man*
+	- Royal Tombs with riches
+
+- Wealthy and Stable
+
+== Mycenean Economy ==
+
+Palace Economy:: Goods are stored inside the Palace then *redistributed*. *No currency*
+
+
+Most of the economy consists of:
+- Farming - *Cities surrounded by farmland*
+- Trade - *All across Mediterranean (eastern)*
+
+= Mycenean Collapse =
+
+- Serveral Empires dissapeared at the *same time (Hitties)*
+- 1200 BC --> 1050 BC
+	- *May have been natural disaster*
+	- Or iron weapons
+	- *_NO WRITING SURVIVED_*
+
+The Greek times that followed were called the *Greek Dark Ages*. However, everything the Mycenean built were *NEVER transferred to Classical Greek*
+
+
