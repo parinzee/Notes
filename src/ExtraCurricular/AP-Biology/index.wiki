@@ -1,2 +1,6 @@
+= Contents =
+    - [[#Generated Links|Generated Links]]
+
 = Generated Links =
     - [[1-ScientificMethod]]
+	- [[2-ImportantMolecules]]

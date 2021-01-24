@@ -1,0 +1,69 @@
+= Contents =
+    - [[#Carbohydrates|Carbohydrates]]
+        - [[#Carbohydrates#Glucose|Glucose]]
+    - [[#Proteins|Proteins]]
+        - [[#Proteins#Amino Acids|Amino Acids]]
+    - [[#Lipids|Lipids]]
+
+= Carbohydrates =
+*Carbon* + *Hydrogen and Oxygen _same ratio as in water_*
+:: Glucose
+
+		Also called *Saccharide* --> Sweet
+----
+Main Function:
+- Energy Source
+- Structure
+
+
+== Glucose ==
+:: A Monomer
+
+Glucose can be:
+- Independent
+- Part of something:
+	- --> *Mono saccharide*
+
+They can form to be part of something bigger:
+Monomers --> Inside *Polymers*
+
+EG: Glucose --> *Glycogen (Polymer/Polysaccharide)*
+
+
+= Proteins =
+*Macromolecules* that functions as:
+- Structure
+- Mechanical Purposes
+- Enzymes
+- Immune System helpers
+- Signaling
+
+
+== Amino Acids ==
+Monomers of Proteins
+
+Many Amino acid ---> *Polypeptide Chains* ---> Proteins.
+
+{{https://3.bp.blogspot.com/-KZ4YJV7QguM/WFmvHoDXH5I/AAAAAAAABJM/9fglL_1US2cvguX42tGRdFyOiKQ0JOtjQCEw/s1600/1.png}}
+
+----
+
+= Lipids =
+Molecules that are *not* water soluble...
+Ex: *Fats*
+
+It has parts that are:
+- Hydrophilic:: Likes water
+- Hydrophobic:: Does not like water
+
+Allows them to function in a *special way*:
+- Hydrophilic outside
+- Hydrophobic inside
+
+Other *functions*:
+- Energy
+- Signaling
+- _*Membrane*_
+
+{{https://ecdn.teacherspayteachers.com/thumbitem/Lipid-PowerPoint-free-internet-worksheet-1451225-1562082137/original-1451225-1.jpg}}
+
