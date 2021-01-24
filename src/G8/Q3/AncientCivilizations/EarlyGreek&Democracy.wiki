@@ -1,4 +1,5 @@
 = Contents =
+    - [[#Main Idea|Main Idea]]
     - [[#Geography of Greece|Geography of Greece]]
         - [[#Geography of Greece#Climate|Climate]]
         - [[#Geography of Greece#Trade|Trade]]
@@ -7,10 +8,31 @@
         - [[#City States#Colonization|Colonization]]
     - [[#Athens|Athens]]
 
+= Main Idea =
+
+:: _The *sea* influenced city-states growth_
+
+It *Functioned as:*
+- Trade Route
+
+	 Main Idea: *Each city-state is independent of eachother*
+
 = Geography of Greece =
 {{https://www.thoughtco.com/thmb/Aay6o2OS8HkliUzyzGNLwIWhNZg=/984x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Map_of_Archaic_Greece_English-ff75b54ebf15484097f4e9998bc8f6b8.jpg}}
 
-Mostly made out of *mountains and 1000+ islands*
+
+Greeks called their land:: *Hellas*
+*Greece* came from *Gracia*
+
+
+Landscape features are:
+- *80%* of Greece is covered in _*Mountains*_
+- Sea:
+	- Green = *Cold*
+	- Blue = *Hot*
+
+- Islands 1000+
+
 
 == Climate ==
 - Long *dry* summer
@@ -20,10 +42,12 @@ The moutains block cold wind --> *North*
 
 
 == Trade ==
-Trade was based heavily on *_sea trade_*:
+Trade was based heavily on *_the sea_*:
 
-- Myceneans:
-	- Heavy Traders
+Other things are also used:
+- *Trade with Romans*
+- *Travel*
+- *Food*
 
 ----
 = City States =
