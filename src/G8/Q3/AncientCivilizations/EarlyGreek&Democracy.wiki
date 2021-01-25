@@ -7,6 +7,13 @@
         - [[#City States#Life In a City-state|Life In a City-state]]
         - [[#City States#Colonization|Colonization]]
     - [[#Athens|Athens]]
+        - [[#Athens#Government|Government]]
+            - [[#Athens#Government#Building Democracy: Draconian Law|Building Democracy: Draconian Law]]
+            - [[#Athens#Government#594 BC - Solon|594 BC - Solon]]
+            - [[#Athens#Government#600 BC - Cleisthenes|600 BC - Cleisthenes]]
+        - [[#Athens#Life in Athens|Life in Athens]]
+    - [[#Sparta|Sparta]]
+        - [[#Sparta#Children Life|Children Life]]
 
 = Main Idea =
 
@@ -72,3 +79,94 @@ They were heavy on civilization:
 	- Fishes
 ----
 = Athens =
+Named after goddess *Athena*:: War, Civilization
+- Worshipped --> *Partheon*
+
+Unlike Spartans they put *emphasis on the mind*:
+- Democracy and Culture
+- Manufacturing and Commerce
+- Peaceful
+
+== Government ==
+Athens === _World's first *democracy*(Different from today)_
+
+Tyrants ruled Athens:
+- Were not Evil
+- Organized Building Programs
+
+
+----
+Originaly *Oligarchy*:
+- Few people had power: *Aristocrats*
+
+*==> Draco led people to overthrow this system*
+
+=== Building Democracy: Draconian Law ===
+Draco took power
+:: *Idea:* All Athenians were *equal*
+
+- Harsh Punishments
+- No Debt Slaves
+
+=== 594 BC - Solon ===
+- *No slavery*
+- *Everyone* is under the law.
+
+	 "Society is well goverened, when people obey the magistrates andthe magistrates obey the law."
+
+*4 Citizens classed -- Wealth*
+- Top 3 allowed --> *Political Positions*
+- *_All are allowed to vote_*
+
+=== 600 BC - Cleisthenes ===
+- *Classed based on location rather than wealth*
+- Citizens allowed to *submit laws*
+
+== Life in Athens ==
+Boys and Men: *2 years in the army*
+	- Learned to read, write, count and *sing*
+		- Songs were part of culture
+
+Rich ? Private Tutor: Farmers
+
+
+Girls and Women:
+- No education
+- *Few* rights
+----
+= Sparta =
+Powerful *city-state* --> Conquered near city-states
+
+Strict Rights:: You never owned land, *rented by the government instead*
+			 :: What you will do is decided *when you were born*	
+			 
+== Children Life ==
+Overseers check when born to see if healthy.
+
+Healthy ? Live:Thrown off cliff
+
+Part of the army at the age of 7:
+- Taken to *Agage*, Military School
+	- Given little food
+	- Encouraged to steal food and fight with others.
+
+
+At age 20, *enter army*.
+--> Allowed to go home at age 30
+--> In army until 60
+
+----
+= Greek Political Structure Summary =
+ 
+ - Monarchy *200BC -> Mycenae*:
+	- Rule heriditary
+	- Divine Right
+- Aristocracy *Before 594 BC -> Athens*
+	- Money and Rich nobles
+	- Based on family rank
+- Oligarchy *500BC -> Spartans*
+	- Small group of Military People
+	- Wealthy/Ability
+- Democracy *500BC -> Athens*
+	- Citizens (*Men over 14*)
+	- Majority Votes
