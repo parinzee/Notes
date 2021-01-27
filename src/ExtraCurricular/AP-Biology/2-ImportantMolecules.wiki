@@ -4,6 +4,9 @@
     - [[#Proteins|Proteins]]
         - [[#Proteins#Amino Acids|Amino Acids]]
     - [[#Lipids|Lipids]]
+    - [[#Nucleic Acids|Nucleic Acids]]
+        - [[#Nucleic Acids#Nucleotides|Nucleotides]]
+        - [[#Nucleic Acids#Deoxyribonucleic Acid|Deoxyribonucleic Acid]]
 
 = Carbohydrates =
 *Carbon* + *Hydrogen and Oxygen _same ratio as in water_*
@@ -67,3 +70,28 @@ Other *functions*:
 
 {{https://ecdn.teacherspayteachers.com/thumbitem/Lipid-PowerPoint-free-internet-worksheet-1451225-1562082137/original-1451225-1.jpg}}
 
+= Nucleic Acids =
+In "Nucleus" of cells and have *Acidic* properties.
+
+Ex: **Deoxyribonucleic acid** --> *Polymer*
+
+== Nucleotides ==
+*Monomers* that make up nucleic acids.
+
+They are made out of:
+- Phosphate Group:
+	- *Acidic*
+- Ribose (*Sugar*)
+- Nitrogen Base:
+	- *Basic*
+
+[[https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/DNA_Structure%2BKey%2BLabelled.pn_NoBB.png/1280px-DNA_Structure%2BKey%2BLabelled.pn_NoBB.png]]
+
+== Deoxyribonucleic Acid ==
+Phosphate + Ribose == *Backbone of DNA*
+
+Nitrogenic Base == Helps forms the *rungs of the ladder*
+
+- Nitrogenic Bases has different *nitrogen bases* that correspond to each other:
+	- *Adenine - Thymine*
+	- *Guanine - Cytosine*
