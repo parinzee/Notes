@@ -2,8 +2,9 @@
 = Ancient Civilizations =
 1. [[local:AncientCivilizations/1-Minoneans-Video.html]]
 2. [[AncientCivilizations/2-Myceneans]]
-4. [[AncientCivilizations/EarlyGreek&Democracy]]
-5. [[AncientCivilizations/4-GreekGods]]
+3. [[AncientCivilizations/EarlyGreek&Democracy]]
+4. [[AncientCivilizations/4-GreekGods]]
+5. [[AncientCivilizations/5-Olympic]]
 
 = Language Arts =
 1. [[LanguageArts/1-TheOxcart]]
