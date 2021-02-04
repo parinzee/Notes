@@ -10,10 +10,16 @@
         - [[#Athens#Government|Government]]
             - [[#Athens#Government#Building Democracy: Draconian Law|Building Democracy: Draconian Law]]
             - [[#Athens#Government#594 BC - Solon|594 BC - Solon]]
-            - [[#Athens#Government#600 BC - Cleisthenes|600 BC - Cleisthenes]]
+            - [[#Athens#Government#500 BC - Cleisthenes|500 BC - Cleisthenes]]
         - [[#Athens#Life in Athens|Life in Athens]]
     - [[#Sparta|Sparta]]
         - [[#Sparta#Children Life|Children Life]]
+            - [[#Sparta#Children Life#Women|Women]]
+        - [[#Sparta#Helots: Slaves|Helots: Slaves]]
+        - [[#Sparta#Spartans|Spartans]]
+        - [[#Sparta#Spartan Army|Spartan Army]]
+            - [[#Sparta#Spartan Army#Equipment|Equipment]]
+    - [[#Greek Political Structure Summary|Greek Political Structure Summary]]
 
 = Main Idea =
 
@@ -102,15 +108,15 @@ Originaly *Oligarchy*:
 *==> Draco led people to overthrow this system*
 
 === Building Democracy: Draconian Law ===
-Draco took power
+Draco took power *621 BC*.
 :: *Idea:* All Athenians were *equal*
 
 - Harsh Punishments
 - No Debt Slaves
 
 === 594 BC - Solon ===
-- *No slavery*
 - *Everyone* is under the law.
+	- *Poor* people can bring charges to *wrongdoers*
 
 	 "Society is well goverened, when people obey the magistrates andthe magistrates obey the law."
 
@@ -118,7 +124,8 @@ Draco took power
 - Top 3 allowed --> *Political Positions*
 - *_All are allowed to vote_*
 
-=== 600 BC - Cleisthenes ===
+=== 500 BC - Cleisthenes ===
+- *No slavery*
 - *Classed based on location rather than wealth*
 - Citizens allowed to *submit laws*
 
@@ -127,7 +134,7 @@ Boys and Men: *2 years in the army*
 	- Learned to read, write, count and *sing*
 		- Songs were part of culture
 
-Rich ? Private Tutor: Farmers
+Rich ? *Private Tutor*: Farmers
 
 
 Girls and Women:
@@ -135,18 +142,20 @@ Girls and Women:
 - *Few* rights
 ----
 = Sparta =
-Powerful *city-state* --> Conquered near city-states
+Powerful *city-state* --> Conquered near city-states (More people)
+
 
 Strict Rights:: You never owned land, *rented by the government instead*
 			 :: What you will do is decided *when you were born*	
 			 
+
 == Children Life ==
 Overseers check when born to see if healthy.
 
 Healthy ? Live:Thrown off cliff
 
 Part of the army at the age of 7:
-- Taken to *Agage*, Military School
+- Taken to *Agoge*, Military School
 	- Given little food
 	- Encouraged to steal food and fight with others.
 
@@ -155,18 +164,62 @@ At age 20, *enter army*.
 --> Allowed to go home at age 30
 --> In army until 60
 
+=== Women ===
+Girls got to school at *7*
+
+- *Trained* although not as tough
+- Stay *fit* for *protection*
+
+Married at *18*
+
+
+Because men are at war,
+- Woman had *freedom and education*
+- Owned *property and land*
+
+== Helots: Slaves ==
+Slaves:
+- Farm land, but gave *half to sparata*
+
+There were *more* helots than *Spartans*
+- Secret Police
+- Killed if caught escape.
+
+
+== Spartans ==
+Oligarchy:
+- Kings + Aristocrats
+
+However Aristocrats would have more *power*
+
+== Spartan Army ==
+
+Fought in *Phalanx Formation*
+- Line up *layered* --> Shields in front.
+- Then stabbed with *Spear*
+
+
+=== Equipment ===
+- Spear
+- *Shields* --> Biggest disgrace was to *lose* 
+- Short Swords
+- *Crimson tunic* --> Hide blood.
+
 ----
 = Greek Political Structure Summary =
- 
- - Monarchy *200BC -> Mycenae*:
-	- Rule heriditary
-	- Divine Right
+
+- Monarchy *200BC -> Mycenae*:
+- Rule *heriditary*
+- Divine Right
+
 - Aristocracy *Before 594 BC -> Athens*
-	- Money and Rich nobles
+	- Money and Rich *nobles*
 	- Based on family rank
+
 - Oligarchy *500BC -> Spartans*
-	- Small group of Military People
+	- Small group of *Military* People
 	- Wealthy/Ability
+
 - Democracy *500BC -> Athens*
 	- Citizens (*Men over 14*)
 	- Majority Votes
