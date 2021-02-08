@@ -20,6 +20,19 @@
         - [[#Sparta#Spartan Army|Spartan Army]]
             - [[#Sparta#Spartan Army#Equipment|Equipment]]
     - [[#Greek Political Structure Summary|Greek Political Structure Summary]]
+    - [[#Pelopnnesian Wars 459 BC to 404 BC|Pelopnnesian Wars 459 BC to 404 BC]]
+        - [[#Pelopnnesian Wars 459 BC to 404 BC#Athens|Athens]]
+        - [[#Pelopnnesian Wars 459 BC to 404 BC#Spartans|Spartans]]
+        - [[#Pelopnnesian Wars 459 BC to 404 BC#Peace of Nicias|Peace of Nicias]]
+    - [[#Second Pelopnnesian War|Second Pelopnnesian War]]
+        - [[#Second Pelopnnesian War#Spartans|Spartans]]
+        - [[#Second Pelopnnesian War#Athens|Athens]]
+    - [[#Result of Pelopnnesian Wars|Result of Pelopnnesian Wars]]
+    - [[#Greek Achievements|Greek Achievements]]
+        - [[#Greek Achievements#Government|Government]]
+        - [[#Greek Achievements#Architecture|Architecture]]
+        - [[#Greek Achievements#Theater|Theater]]
+        - [[#Greek Achievements#Science and Technology|Science and Technology]]
 
 = Main Idea =
 
@@ -28,7 +41,7 @@
 It *Functioned as:*
 - Trade Route
 
-	 Main Idea: *Each city-state is independent of eachother*
+	Main Idea: *Each city-state is independent of eachother*
 
 = Geography of Greece =
 {{https://www.thoughtco.com/thmb/Aay6o2OS8HkliUzyzGNLwIWhNZg=/984x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Map_of_Archaic_Greece_English-ff75b54ebf15484097f4e9998bc8f6b8.jpg}}
@@ -146,8 +159,8 @@ Powerful *city-state* --> Conquered near city-states (More people)
 
 
 Strict Rights:: You never owned land, *rented by the government instead*
-			 :: What you will do is decided *when you were born*	
-			 
+			 :: What you will do is decided *when you were born*
+
 
 == Children Life ==
 Overseers check when born to see if healthy.
@@ -201,7 +214,7 @@ Fought in *Phalanx Formation*
 
 === Equipment ===
 - Spear
-- *Shields* --> Biggest disgrace was to *lose* 
+- *Shields* --> Biggest disgrace was to *lose*
 - Short Swords
 - *Crimson tunic* --> Hide blood.
 
@@ -223,3 +236,84 @@ Fought in *Phalanx Formation*
 - Democracy *500BC -> Athens*
 	- Citizens (*Men over 14*)
 	- Majority Votes
+
+----
+= Pelopnnesian Wars 459 BC to 404 BC =
+- Spartan vs Athens
+
+1. Athens had *Navy*
+2. Spartans had *Army*
+
+== Athens ==
+- Long walls from city --> *Seaport Piraeus*
+- Allowed for *trade* and *supplies*
+- Many *died* from plague:
+	- General of Athens: *Pericles*
+
+== Spartans ==
+- Never breached wall at *first war*
+
+== Peace of Nicias ==
+10 years --> *truce* due to death.
+
+----
+= Second Pelopnnesian War =
+*415 BC* --> Athens helped allies on Syracuse (Owned by Sparta)
+
+- Athens *lost* --> *WAR*
+
+== Spartans ==
+- Enlisted *Persians* as allies
+- *50 years* --> Sparta defeated Athenian navy at:
+	- *Aegospotami* --> *404 BC*
+
+== Athens ==
+- Navy destroyed --> *People starved*
+- No army
+- *404 BC* --> *Surrendered*
+
+= Result of Pelopnnesian Wars =
+- Sparta became the most powerful --> *(371 BC)*
+- *Abolished Democracy*
+
+- Thebes revolted *Battle of Leuctra* --> Spartans lost
+
+----
+= Greek Achievements =
+:: Arts, Philosophy, Science
+
+- Socrates, Plato, and Aristotle --> *Basis of Philosophy*
+- Science:
+	- Math
+	- Medicine
+	- Engineering
+
+== Government ==
+- Athens first introduced
+- Used *globally now*
+
+== Architecture ==
+*Imitated throughout history*
+- Romans
+- Renaissance
+- U.S Supreme Court ETC
+
+{{https://www.ducksters.com/history/ancient_greece/architecture_orders.png}}
+
+== Theater ==
+- People can see from *all* parts
+- Invented *drama, comedy, tragedy*
+
+Drama:: Actors *pretend* to be character in a story
+
+Tragedy:: Person struggles and *fail*
+
+Comedy:: Story has *happy ending*
+
+== Science and Technology ==
+- Aristarchus --> Earth is round, rotates axis, around sun
+- Hippocrates --> Diseases were natural
+- Archimedes --> Principle of Pulley, screw, lever
+- Hemophilias --> Blood ran through arteries
+- Pythagoras --> First true Mathematician
+- Strabo --> Wrote the first geography book.
