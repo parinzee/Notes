@@ -73,7 +73,7 @@ Other *functions*:
 = Nucleic Acids =
 In "Nucleus" of cells and have *Acidic* properties.
 
-Ex: **Deoxyribonucleic acid** --> *Polymer*
+Ex: *Deoxyribonucleic acid* --> *Polymer*
 
 == Nucleotides ==
 *Monomers* that make up nucleic acids.
@@ -85,7 +85,7 @@ They are made out of:
 - Nitrogen Base:
 	- *Basic*
 
-[[https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/DNA_Structure%2BKey%2BLabelled.pn_NoBB.png/1280px-DNA_Structure%2BKey%2BLabelled.pn_NoBB.png]]
+{{https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/DNA_Structure%2BKey%2BLabelled.pn_NoBB.png/1280px-DNA_Structure%2BKey%2BLabelled.pn_NoBB.png}}
 
 == Deoxyribonucleic Acid ==
 Phosphate + Ribose == *Backbone of DNA*
