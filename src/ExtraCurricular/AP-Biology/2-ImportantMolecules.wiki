@@ -7,8 +7,15 @@
     - [[#Nucleic Acids|Nucleic Acids]]
         - [[#Nucleic Acids#Nucleotides|Nucleotides]]
         - [[#Nucleic Acids#Deoxyribonucleic Acid|Deoxyribonucleic Acid]]
+    - [[#Minerals and Vitamins|Minerals and Vitamins]]
+        - [[#Minerals and Vitamins#Vitamins|Vitamins]]
+        - [[#Minerals and Vitamins#Minerals|Minerals]]
+        - [[#Minerals and Vitamins#Foods|Foods]]
+        - [[#Minerals and Vitamins#Conclusion|Conclusion]]
 
 = Carbohydrates =
+Function: Quick *short-term energy*
+
 *Carbon* + *Hydrogen and Oxygen _same ratio as in water_*
 :: Glucose
 
@@ -52,6 +59,9 @@ Many Amino acid ---> *Polypeptide Chains* ---> Proteins.
 ----
 
 = Lipids =
+Function: *Long-term energy*
+
+
 Molecules that are *not* water soluble...
 Ex: *Fats*
 
@@ -95,3 +105,51 @@ Nitrogenic Base == Helps forms the *rungs of the ladder*
 - Nitrogenic Bases has different *nitrogen bases* that correspond to each other:
 	- *Adenine - Thymine*
 	- *Guanine - Cytosine*
+
+----
+
+= Minerals and Vitamins =
+- Things that body needs but can't produce.
+
+== Vitamins ==
+*Organic (has carbon)* things that the body can't produce.
+
+Some Vitamins are *water soluble*:
+- *C* --> Stay in body *shorter*.
+
+Some Vitamins stay in *fat soluble*
+- *A, D, E, K* --> Stay in body *longer*
+
+== Minerals ==
+Inorganic and are often *elements*
+
+Example:
+P:: ATP
+
+Ca:: Muscle Contraction
+
+K:: Nerve Signaling
+
+Magnesium (Mg):: Muscle Contraction
+
+== Foods ==
+- Often have both *minerals and vitamins*
+
+EG:
+- Carrots:
+	- Vitamin: *Beta-Carotine* --> Becomes Vitamin A
+		- Helps improve eyesight
+	- Mineral:
+		- Potassium
+
+- Oranges:
+	- Vitamin: *C* --> Improves Immune System
+
+- Milk:
+	- Vitamin D
+	- Calcium
+
+== Conclusion ==
+Vitamins --> *Co-enzymes* --> Help do cell *life functions*
+
+Minerals --> *Everything* --> ATP, Bones, Nerves, Etc
