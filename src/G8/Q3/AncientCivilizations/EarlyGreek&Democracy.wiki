@@ -33,6 +33,19 @@
         - [[#Greek Achievements#Architecture|Architecture]]
         - [[#Greek Achievements#Theater|Theater]]
         - [[#Greek Achievements#Science and Technology|Science and Technology]]
+        - [[#Greek Achievements#Greek Literature|Greek Literature]]
+            - [[#Greek Achievements#Greek Literature#Lyric Poetry and Fables|Lyric Poetry and Fables]]
+        - [[#Greek Achievements#Art|Art]]
+        - [[#Greek Achievements#Sports|Sports]]
+        - [[#Greek Achievements#Philosophers|Philosophers]]
+            - [[#Greek Achievements#Philosophers#Socrates|Socrates]]
+            - [[#Greek Achievements#Philosophers#Plato|Plato]]
+            - [[#Greek Achievements#Philosophers#Aristotle|Aristotle]]
+    - [[#Hellenistic Period 350-146 BC|Hellenistic Period 350-146 BC]]
+        - [[#Hellenistic Period 350-146 BC#King Philip of Macedon (356-336 BC)|King Philip of Macedon (356-336 BC)]]
+        - [[#Hellenistic Period 350-146 BC#Alexander The Great (336-323 BC)|Alexander The Great (336-323 BC)]]
+    - [[#Greek Mythology|Greek Mythology]]
+        - [[#Greek Mythology#God|God]]
 
 = Main Idea =
 
@@ -317,3 +330,86 @@ Comedy:: Story has *happy ending*
 - Hemophilias --> Blood ran through arteries
 - Pythagoras --> First true Mathematician
 - Strabo --> Wrote the first geography book.
+
+== Greek Literature ==
+Literature:: Written *works* of group, time periods, culture
+Myth:: Stories about *gods and heroes*
+Epic:: Poems with *heroic deeds*
+Fable:: Story that teaches a *lesson*.
+
+Famous was *Illiad and Odyssey* by Homer.
+- Illiad --> *Tells story of last year of Trojan war*
+- Odyssey --> *Odysseus(Greek Solider) going home from war*
+
+=== Lyric Poetry and Fables ===
+Lyric --> *Instrument from lyre* + Poems
+
+Fables --> *Aesop*
+
+== Art ==
+- Three Periods Sculpture
+	- Archaic --> *750-479 BC* --> Rigid, symmetrical (no emotions)
+	- Classical --> *479-336 BC* --> Natural, muscular
+	- Hellenistic --> *336-30BC* --> Bold and dramatic
+
+== Sports ==
+- Olympics --> *776 BC*
+
+== Philosophers ==
+--> "Lovers of *wisdom*"
+
+Studied: *Maths, Physics, Science*
+
+Questioned Everyone and Everything
+=== Socrates ===
+*Socratic Method* --> Teach by *asking* --> Think
+
+Arrested and suicide for asking about *gods*
+
+=== Plato ===
+- Student of Socrates
+
+Book --> *Republic*
+
+Idea:: *Rulers should be philosophers*
+
+- Platonic Love --> *Impossible Love*
+
+=== Aristotle ===
+- Student of Plato
+- Didn't agree with all *Plato* said
+- Founded school --> *Lyceum*
+- *_Self-Control_*
+
+:: Tutor of *Alexander The Great*
+
+"Wind direction determined sex of baby."
+
+= Hellenistic Period 350-146 BC =
+- Before Roman
+- Cultures mixed
+
+== King Philip of Macedon (356-336 BC) ==
+--> Conquered Greece
+- Was assassinated by *wife*.
+
+== Alexander The Great (336-323 BC) ==
+- Son of King Philip
+- Conquered: *Asia Minor, Persia, Egypt, Syria, Afghanistan, North India*
+- Died of fever: *323 BC --> Age 33*
+
+- Conquered: *Persepolis*
+
+{{https://wps.pearsoncustom.com/wps/media/objects/2426/2484749/chap_assets/maps/map5_1.jpg}}
+
+= Greek Mythology =
+- Used Myths instead of Scientifc explaination
+- *Stories of Gods how the world works*
+
+--> Worshipped *Nature(Pantheism)* 
+
+== God ==
+- Gods had human traits
+- Greeks pleased gods by *temple*
+
+{{https://www.definitelygreece.com/wp-content/uploads/2020/04/Family-tree-greek-gods.jpg}}
