@@ -85,10 +85,12 @@ The Forum:: Center of *Roman Government*
 
 - Senate 300 men:
 	- 2 *Consuls*
+	- 8 Praetors
 	- 16 Aediles
-	- 20 Quaetos
-	- 10 Trubunes
-	- Slaves/Ordinary People
+	- 20 Quaestors
+	- 10 Tribunes
+	- Ordinary People
+	- Slaves --> *No rights*
 
 == Patricians ==
 ( First 4 classes )
@@ -98,6 +100,7 @@ The Forum:: Center of *Roman Government*
 4. 218 BC --> *NOT* allowed to trade
 
 == Plebians ==
+(Tribunes and Ordinary)
 1. Commoners
 2. Majority
 3. Skilled/Trade
