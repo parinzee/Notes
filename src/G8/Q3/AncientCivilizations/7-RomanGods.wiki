@@ -1,0 +1,15 @@
+
+| Greeks     | Roman   | Role                     |
+|------------|---------|--------------------------|
+| Hera       | Juno    | Cheif Goddess - Marriage |
+| Aphrodite  | Venus   | Beauty                   |
+| Artemis    | Diana   | Hunting                  |
+| Athena     | Minerva | Wisdom                   |
+| Demeter    | Ceres   | Harvest, Nature          |
+| Hestia     | Vesta   | Hearth                   |
+| Zeus       | Jupiter | Cheif God - Sky and Air  |
+| Apollon    | Apollo  | Poetry, Sun, Music       |
+| Ares       | Mars    | God of War               |
+| Hephaistos | Vulcan  | Blacksmiths              |
+| Hermes     | Mercury | Messenger                |
+| Poseidon   | Neptune | Sea                      |
