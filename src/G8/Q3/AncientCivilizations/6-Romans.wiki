@@ -6,9 +6,19 @@
         - [[#Roman Empire#Origins|Origins]]
             - [[#Roman Empire#Origins#Etruscans|Etruscans]]
             - [[#Roman Empire#Origins#Latins|Latins]]
-            - [[#Roman Empire#Origins#The Senate|The Senate]]
-        - [[#Roman Empire#Patricians|Patricians]]
-        - [[#Roman Empire#Plebians|Plebians]]
+    - [[#Roman Political Structure|Roman Political Structure]]
+        - [[#Roman Political Structure#Patricians|Patricians]]
+        - [[#Roman Political Structure#Plebeians|Plebeians]]
+        - [[#Roman Political Structure#The Senate|The Senate]]
+        - [[#Roman Political Structure#Assembly|Assembly]]
+        - [[#Roman Political Structure#Law of the 12 Tables|Law of the 12 Tables]]
+    - [[#Roman Values|Roman Values]]
+        - [[#Roman Values#Thrift|Thrift]]
+        - [[#Roman Values#Discipline|Discipline]]
+        - [[#Roman Values#Self-Sacrifice|Self-Sacrifice]]
+        - [[#Roman Values#Devotion to Family|Devotion to Family]]
+        - [[#Roman Values#Roman Conquest|Roman Conquest]]
+        - [[#Roman Values#Army|Army]]
 
 = Roman Empire =
 - Mostly, *stole* stuff from Greeks.
@@ -77,20 +87,10 @@ Which was hated for being *cruel*
 
 :: Tarquin the Proud (534 BC)
 
-=== The Senate ===
-- The Etruscans then built:
+= Roman Political Structure =
+509 BC overthrew and made a *Republic*:: People elect their own to represent them.
 
-The Forum:: Center of *Roman Government*
---> *Senate*
-
-- Senate 300 men:
-	- 2 *Consuls*
-	- 8 Praetors
-	- 16 Aediles
-	- 20 Quaestors
-	- 10 Tribunes
-	- Ordinary People
-	- Slaves --> *No rights*
+Consisted of 2 classes that can't be changed:
 
 == Patricians ==
 ( First 4 classes )
@@ -99,9 +99,79 @@ The Forum:: Center of *Roman Government*
 3. Controlled Senate
 4. 218 BC --> *NOT* allowed to trade
 
-== Plebians ==
+== Plebeians ==
 (Tribunes and Ordinary)
 1. Commoners
 2. Majority
 3. Skilled/Trade
 4. Citizen and Vote *after 18*
+
+== The Senate ==
+The Senate was comparable to law makers --> *Legislative branch*
+- The Etruscans then built:
+
+The Forum:: Center of *Roman Government*
+--> *Senate*
+
+People in Senate chosen by consul and for life.
+
+- Senate 300 men:
+	- 2 *Consuls*:
+		- Presidency, one year term
+		- One could be dictator
+		- Elected by *Assembly* but from *Senate*
+	- 8 Praetors
+	- 16 Aediles
+	- 20 Quaestors
+	
+== Assembly ==
+The assembly was allowed plebeians into it's ranks
+- Assembly:
+	- 10 Tribunes:
+		- Can summon Senates
+	- Ordinary People
+	- Slaves --> *No rights*
+
+== Law of the 12 Tables ==
+:: Code of laws that spelled out civil matters for BOTH *patricians and plebeians*
+
+- This allowed a plebeian to become consul
+
+*_Not included, the right to marry came later_*
+
+----
+
+= Roman Values =
+The Roman values are what made them good.
+
+== Thrift ==
+*Careful management of money*
+
+--> Allowed to plan new conquests which required money.
+
+== Discipline ==
+*Following rules*
+
+== Self-Sacrifice ==
+Be willing to be the person your country needs.
+
+== Devotion to Family ==
+For:
+- Family
+- Country
+
+If you can serve your family, then you can serve your country.
+
+----
+== Roman Conquest ==
+Goal: *Conquer Mediterranean*:: "Mare Nostrum" (*Our seas*)
+|
+--> Used *Spartan* fighting tactics --> *Modified for mobility*
+
+== Army ==
+Main Enemy: *North African - Punici* --> _Carthage_ founded by Sister of king of Phoenicia.
+
+- Legionnaire: Roman Soldiers
+- Legion: Unit of *6000* Roman soldiers
+- Colonie: Military Settlements
+
