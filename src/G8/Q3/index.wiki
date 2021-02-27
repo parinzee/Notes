@@ -1,4 +1,3 @@
-
 = Ancient Civilizations =
 1. [[local:AncientCivilizations/1-Minoneans-Video.html]]
 2. [[AncientCivilizations/2-Myceneans]]
@@ -11,4 +10,5 @@
 = Language Arts =
 1. [[LanguageArts/1-TheOxcart]]
 2. [[LanguageArts/2-HarrietTubman]]
+3. [[LanguageArts/3-TroubleWithTelevision]]
 

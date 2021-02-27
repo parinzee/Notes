@@ -1,0 +1,30 @@
+= Contents =
+    - [[#Author: Robert MacNeil|Author: Robert MacNeil]]
+    - [[#Background|Background]]
+    - [[#Vocab|Vocab]]
+
+= Author: Robert MacNeil =
+- *Television* news journalist.
+- 20 years, co-hosted news show that focused on one object
+
+Born:: *1931*
+
+= Background =
+1950:: *9%* owned TV
+Today:: *98%* owns TV
+
+- Viewers have 200 channels
+- 1 hour --> _*25 or 30 mins of ads*_
+
+= Vocab =
+Enhances:: To make *better*
+Coherence:: *Logical* Connection
+Unattainable:: Not able to be achieved for gained
+Resolutions:: *Results* of something
+----
+Thesis:: Main *idea*
+Thesis Statements:: The main idea normally stated at the start of an essay.
+Argument:: Disagreement
+Proposition-and-support:: Proposition --> *Thesis*
+                       :: Support --> *Evidence*
+
