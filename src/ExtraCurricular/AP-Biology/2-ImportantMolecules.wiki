@@ -19,7 +19,7 @@
 | Macromolecules | *Building Blocks*                    | Functions                                        | Examples                    |
 |----------------|--------------------------------------|--------------------------------------------------|-----------------------------|
 | Carbohydrates  | Monosaccharides                      | Short term energy, fiber                         | Glucose, Sucrose, Starch    |
-| Lipids         | Fatty acids and glycerol             | Long term energy, Membrane                       | Fats, oils, waxes, steroids |
+| Lipids         | Fatty acids and glycerol             | Long term energy, Membrane, *Signaling*          | Fats, oils, waxes, steroids |
 | Proteins       | Amino Acids --> *Polypeptide chains* | Cell structure, Chemical Signals, Reactions, etc | Keratin, hormones, enzymes  |
 | Nucleic Acids  | Nucleotides                          | Genetic Info                                     | DNA, RNA                    |
 
