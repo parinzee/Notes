@@ -1,4 +1,5 @@
 = Contents =
+    - [[#Review Table|Review Table]]
     - [[#Carbohydrates|Carbohydrates]]
         - [[#Carbohydrates#Glucose|Glucose]]
     - [[#Proteins|Proteins]]
@@ -12,6 +13,16 @@
         - [[#Minerals and Vitamins#Minerals|Minerals]]
         - [[#Minerals and Vitamins#Foods|Foods]]
         - [[#Minerals and Vitamins#Conclusion|Conclusion]]
+
+= Review Table =
+
+| Macromolecules | *Building Blocks*                    | Functions                                        | Examples                    |
+|----------------|--------------------------------------|--------------------------------------------------|-----------------------------|
+| Carbohydrates  | Monosaccharides                      | Short term energy, fiber                         | Glucose, Sucrose, Starch    |
+| Lipids         | Fatty acids and glycerol             | Long term energy, Membrane                       | Fats, oils, waxes, steroids |
+| Proteins       | Amino Acids --> *Polypeptide chains* | Cell structure, Chemical Signals, Reactions, etc | Keratin, hormones, enzymes  |
+| Nucleic Acids  | Nucleotides                          | Genetic Info                                     | DNA, RNA                    |
+
 
 = Carbohydrates =
 Function: Quick *short-term energy*
@@ -59,6 +70,8 @@ Many Amino acid ---> *Polypeptide Chains* ---> Proteins.
 ----
 
 = Lipids =
+(Don't confuse with *Carbohydrate*)
+
 Function: *Long-term energy*
 
 
@@ -75,7 +88,7 @@ Allows them to function in a *special way*:
 
 Other *functions*:
 - Energy
-- Signaling
+- *Signaling*
 - _*Membrane*_
 
 {{https://ecdn.teacherspayteachers.com/thumbitem/Lipid-PowerPoint-free-internet-worksheet-1451225-1562082137/original-1451225-1.jpg}}
