@@ -2,6 +2,7 @@
     - [[#Author: Robert MacNeil|Author: Robert MacNeil]]
     - [[#Background|Background]]
     - [[#Vocab|Vocab]]
+    - [[#Questions|Questions]]
 
 = Author: Robert MacNeil =
 - *Television* news journalist.
@@ -21,6 +22,20 @@ Enhances:: To make *better*
 Coherence:: *Logical* Connection
 Unattainable:: Not able to be achieved for gained
 Resolutions:: *Results* of something
+Statistical averages:: *normal* behavior
+Undergraduates:: Students who don't have degree
+Bachelor's degree:: Degree to 4-year study.
+Divert:: Distract
+Narcotic:: Substance that soothes
+Serial kaleidoscopic exposures:: Continuous changing images
+Usurps:: Take by force
+August:: Honored
+Bequeathed:: Handed down
+Dominating:: "Commanding most attention"
+Aptly:: Correctly and Accurately
+Dismissible:: Easily out of someone's mind.
+
+
 ----
 Thesis:: Main *idea*
 Thesis Statements:: The main idea normally stated at the start of an essay.
@@ -28,3 +43,8 @@ Argument:: Disagreement
 Proposition-and-support:: Proposition --> *Thesis*
                        :: Support --> *Evidence*
 
+= Questions =
+1. He states that television is a distraction to humanity as whole. He says that we could be spending more time doing more productive things. He also states that it has decreased our attention span as a whole.
+2. It decreases our attention span. It also shows inefficient communication, not much of the news is affordable. All of these results in us wasting our time.
+3. He supports his article with statistics to give an evidence as well as to provide a shocking fact.
+4. 

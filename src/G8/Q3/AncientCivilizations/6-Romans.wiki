@@ -19,6 +19,14 @@
         - [[#Roman Values#Devotion to Family|Devotion to Family]]
         - [[#Roman Values#Roman Conquest|Roman Conquest]]
         - [[#Roman Values#Army|Army]]
+        - [[#Roman Values#Punic Wars|Punic Wars]]
+            - [[#Roman Values#Punic Wars#First Punic Wars|First Punic Wars]]
+            - [[#Roman Values#Punic Wars#Second Punic Wars|Second Punic Wars]]
+            - [[#Roman Values#Punic Wars#Third Punic Wars|Third Punic Wars]]
+    - [[#Growing Empire|Growing Empire]]
+        - [[#Growing Empire#Julius Caesar|Julius Caesar]]
+            - [[#Growing Empire#Julius Caesar#Fall of 1st Triumvirate|Fall of 1st Triumvirate]]
+            - [[#Growing Empire#Julius Caesar#2nd Triumvirate|2nd Triumvirate]]
 
 = Roman Empire =
 - Mostly, *stole* stuff from Greeks.
@@ -172,6 +180,87 @@ Goal: *Conquer Mediterranean*:: "Mare Nostrum" (*Our seas*)
 Main Enemy: *North African - Punici* --> _Carthage_ founded by Sister of king of Phoenicia.
 
 - Legionnaire: Roman Soldiers
-- Legion: Unit of *6000* Roman soldiers
+- Legion: Unit of *6000* Roman soldiers:
+    - Also included war *Elephants*
 - Colonie: Military Settlements
 
+== Punic Wars ==
+{{https://upload.wikimedia.org/wikipedia/commons/a/ac/First_Punic_War_264_BC_v3.png}}
+
+- Rome was forced to be *unified*
+- Island of Sicily --> Important for trade
+
+=== First Punic Wars ===
+- Battle over *Sicily*
+- *23* years
+
+Rome used Greek *trireme* style.
+Mainly the *navy*
+
+- Carthaginians paid *indemnity*
+
+=== Second Punic Wars ===
+- *Hannibal (Carthage)* conquered:
+    - Spain
+    - Went through Alps
+    - Lost 40,000 soldiers and 40 war elephants
+    - Defeated most Romans *legions*
+
+- General *Scipio*:
+    - Gathered the troops and surprised attack *Carthage*
+    - Scipio defeated Hannibal at *Zuma* -> Indemnity
+
+=== Third Punic Wars ===
+- Rome attacked Carthage --> Prevent *retaliation*
+
+- *Cato (Politician)* --> *_"Carthago delenda est"_*
+
+- After winning, Roman spread *salt over soil*:
+    - Prevent from rebuilding
+
+----
+= Growing Empire =
+- They won 50 wars, no one could stop them
+Enemies:
+
+1. *Carthaginians*
+2. *Gauls/Gallic* - Germanic and French
+3. *Macedon/Illyrians* - Hellenic fighters
+
+- After conquer, *made Latifundias (Plantations)*:
+    - Led to revolts
+    - *Spartacus rebelled*:
+        - Caused legions to be stationed--> Cities
+
+{{https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Map_of_Ancient_Rome_271_AD.svg/2560px-Map_of_Ancient_Rome_271_AD.svg.png}}
+
+== Julius Caesar ==
+- Greatest Generals
+- Skilled politician
+
+Consul --> *61 BC*
+Ruled with:
+    - Pompey
+    - Crassus
+
+Formed the first *Triumvirate*
+- Forcibly silencing people
+- *Bribing* Senate
+
+=== Fall of 1st Triumvirate ===
+- Crassus died
+- Pompey became *jealous* of Caesar
+
+
+So, Caesar rallied support of people:
+- Employ Soldiers
+
+
+1. Pompey ordered to disband army at *Rubicon River*
+2. Julius disobeyed Pompey and killed him in a civil war. 
+
+=== 2nd Triumvirate ===
+
+1. Octavian: Became *Caesar Augustus*
+2. Marcus Lepidus: Helped Octavian defeat the rebellious son of Pompey. Later expelled due to *trying to grab Octavian's legions*.
+3. Mark Anthony: Caesar's lieutenant. Anthony loved Cleopatra.
