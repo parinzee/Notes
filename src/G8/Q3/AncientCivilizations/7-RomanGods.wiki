@@ -13,3 +13,5 @@
 | Hephaistos | Vulcan  | Blacksmiths              |
 | Hermes     | Mercury | Messenger                |
 | Poseidon   | Neptune | Sea                      |
+| Hades      | Pluto   | Underworld               |
+
