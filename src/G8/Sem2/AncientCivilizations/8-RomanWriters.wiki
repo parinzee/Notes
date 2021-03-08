@@ -1,6 +1,25 @@
-= Cicero =
-- Born 106 BC
+= Contents =
+    - [[#Cicero|Cicero]]
+        - [[#Cicero#Signifance|Signifance]]
+        - [[#Cicero#Cicero's Works|Cicero's Works]]
+    - [[#Virgil|Virgil]]
+        - [[#Virgil#Early Life|Early Life]]
+        - [[#Virgil#What did he do?|What did he do?]]
+        - [[#Virgil#The Divine Comedy|The Divine Comedy]]
 
+= Cicero =
+- Born 106 BC, _Arpinum Italy_
+- Died 43 BC _Formia, Italy_.
+
+== Signifance ==
+- Speeches and letters
+- Translator
+- Philosopher
+
+== Cicero's Works ==
+- "De consolatione"
+- "For Milo"
+- Ad Atteim
 = Virgil =
 *Publius Vergilius Maro*
 
@@ -15,4 +34,15 @@
 1. Eclogeus
 2. Georgics
 3. Aeneid
+
+== The Divine Comedy ==
+- Written by *Dante Alighieri*
+
+Subject:: *Virgil* guides Dante through Hell and Purgatory
+
+{{https://retrospectmagazinehca.files.wordpress.com/2020/01/illustration-to-the-divine-comedy-by-dante-alighieri-abyss-of-hell-1480-1490-found-in-the-collection-of-the-biblioteca-apostolica-vaticana-486777773-5c3a03c246e0fb00016261.jpg?w=768&h=536&crop=1}}
+
+Image of 9 Circles of hell:
+- Less Sins
+- More Sins
 
