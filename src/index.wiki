@@ -2,7 +2,7 @@
 Parin's Personal Notes Library
 
 == G8 ==
-[[G8/Q3/index]]
+[[G8/Sem2/index]]
 
 == APs and KVIS ==
 [[ExtraCurricular/AP-Biology/index]]

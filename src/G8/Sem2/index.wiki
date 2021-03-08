@@ -6,6 +6,7 @@
 5. [[AncientCivilizations/5-Olympic]]
 6. [[AncientCivilizations/6-Romans]]
 7. [[AncientCivilizations/7-RomanGods]]
+8. [[AncientCivilizations/8-RomanWriters]]
 
 - [[https://docs.google.com/document/d/1mt_vh6liceXKcqdLgTAc-llV3jR9MOM0gsGjvAuj8h8/edit|GreekWriters]]
 
@@ -13,4 +14,5 @@
 1. [[LanguageArts/1-TheOxcart]]
 2. [[LanguageArts/2-HarrietTubman]]
 3. [[LanguageArts/3-TroubleWithTelevision]]
+4. [[LanguageArts/4-Escaping]]
 
