@@ -30,6 +30,15 @@
     - [[#Roman Culture|Roman Culture]]
         - [[#Roman Culture#Video|Video]]
         - [[#Roman Culture#Another Video|Another Video]]
+    - [[#Lingua Franca|Lingua Franca]]
+    - [[#Roman Art|Roman Art]]
+    - [[#Calendar|Calendar]]
+    - [[#Religion|Religion]]
+    - [[#Practicality|Practicality]]
+    - [[#Engineering Practices|Engineering Practices]]
+        - [[#Engineering Practices#Stone Arches|Stone Arches]]
+        - [[#Engineering Practices#Aqueducts|Aqueducts]]
+        - [[#Engineering Practices#Ect|Ect]]
 
 = Roman Empire =
 - Mostly, *stole* stuff from Greeks.
@@ -329,3 +338,62 @@ Via Appia:: *Main Road* that can cross over Europe.
 Chaperon:: Adult take care of younger people
 
 Porticus of Livia --> Livia's Augustus wife.
+
+----
+
+= Lingua Franca =
+The languages that were used as the global stuff
+
+Now: *English*,
+This is closely related to:
+
+Etymology:: Studies of origins of Words
+
+----
+There is always an origin of the words
+
+= Roman Art =
+- Mosiacs --> Special art forms that uses:
+    - Pottery
+    - Jewerly
+    - Tools
+
+= Calendar =
+- Changed calendar *365 days*
+- Also Roman Numbers
+
+= Religion =
+- Had altars and shrine at home
+- Also had household gods.
+
+Leader of the house will *pray everyday to household gods*.
+
+= Practicality =
+*Less time*:
+- Philosphy
+- Art
+- Literature
+
+*More* time:
+- Engineering 
+- Construction
+- Military Ops
+
+= Engineering Practices =
+The built new things
+
+== Stone Arches ==
+- They last longer than columns
+- They are harder to fall than *columns*
+
+== Aqueducts ==
+- 14 Aqueducts
+- *265* Miles
+- 50 gallons daily
+- Supported by Arches
+
+== Ect ==
+- Dams
+- Reservoirs
+- Harbors
+

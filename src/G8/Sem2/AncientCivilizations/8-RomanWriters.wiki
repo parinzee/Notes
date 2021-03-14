@@ -6,6 +6,15 @@
         - [[#Virgil#Early Life|Early Life]]
         - [[#Virgil#What did he do?|What did he do?]]
         - [[#Virgil#The Divine Comedy|The Divine Comedy]]
+    - [[#Suetonius|Suetonius]]
+        - [[#Suetonius#Records and Works|Records and Works]]
+        - [[#Suetonius#Why Significant|Why Significant]]
+    - [[#Livy|Livy]]
+        - [[#Livy#Records of Books|Records of Books]]
+        - [[#Livy#Significant|Significant]]
+    - [[#Tacitus|Tacitus]]
+        - [[#Tacitus#Works|Works]]
+        - [[#Tacitus#Signifcance|Signifcance]]
 
 = Cicero =
 - Born 106 BC, _Arpinum Italy_
@@ -20,6 +29,8 @@
 - "De consolatione"
 - "For Milo"
 - Ad Atteim
+
+
 = Virgil =
 *Publius Vergilius Maro*
 
@@ -46,3 +57,48 @@ Image of 9 Circles of hell:
 - Less Sins
 - More Sins
 
+= Suetonius =
+- Born in Runies'd Hippones
+
+== Records and Works ==
+- Revealed life about Julius Caesar
+- Uses Written quotes and stuff
+- Avoids usig his own judgements on books
+
+Book: *Biography of 12 Caesars*
+
+== Why Significant ==
+- The book
+
+= Livy =
+- Roman Historian Born in *64* B.C
+- Spent his time in Rome
+- Mentor of Augustus
+
+== Records of Books ==
+
+*Livy's History of Romes* in which he wrote the history of Rome from.
+
+Still Exist:
+- Books 1-10
+- Books 21-45
+
+== Significant ==
+- Never held a public office
+- Best known for *Ab Urbe Condita* --> Only 35 survived
+
+= Tacitus =
+- Born *56* A.D, Gallia Narbonensis
+- Died *120* A.D, Rome
+
+== Works ==
+- Agricola
+- Germania
+- Annals
+- Historiae
+
+== Signifcance ==
+- Annals
+- Historiae
+
+Covers the history of something that I didn't hear.
