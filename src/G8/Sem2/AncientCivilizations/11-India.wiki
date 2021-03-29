@@ -13,6 +13,13 @@
         - [[#Origins 3300 B.C.#WW1|WW1]]
     - [[#Independence|Independence]]
     - [[#Modern-day|Modern-day]]
+    - [[#India (School)|India (School)]]
+        - [[#India (School)#Mahabharata|Mahabharata]]
+        - [[#India (School)#Aryans|Aryans]]
+            - [[#India (School)#Aryans#Lifestyle|Lifestyle]]
+            - [[#India (School)#Aryans#Family|Family]]
+            - [[#India (School)#Aryans#Language and Tradition|Language and Tradition]]
+            - [[#India (School)#Aryans#2 Epics|2 Epics]]
 
 = Aryabhatta =
 5th and 6th Century A.D --> *Aryabhatta*
@@ -44,11 +51,22 @@ Vedas:: text that introduced *truth* for the Hindus
 == Vedic Period 1500 BC - 500 BC ==
 - *Caste* *System* was developed:
     - Predetermined classes
+    - ONLY *PRIESTS AND WARRIORS* --> Allowed to hear *Vedas*
+    - Originally head was soliders.
 
-1. *Brahmins* --> *Priest at the top*
-2. Kshatriyas --> *Warriors and Kings*
-3. Viashyas --> *Workers/Merchants*
-4. Shudras --> *Laborers, farmers and unskilled workers*
+1. *Brahmins* --> *Priest at the top*:
+    1. Perform Religious stuff
+    2. Studied and teach *Vedas*
+2. Kshatriyas --> *Warriors and Kings*:
+    1. Study the Vedas (can't teach)
+    2. Lead Government
+3. Viashyas --> *Workers/Merchants*:
+    1. Tend herds
+    2. Sell useful products
+4. Shudras --> *Laborers, farmers and unskilled workers*:
+    1. Serve other varnas
+5. *Pariahs* --> *_Untouchables and Slaves_* (Majority):
+    1. Performed *unclean tasks*
 
 Towards the end, they spread from *Punjab region* to *Ganges River*
 
@@ -140,4 +158,109 @@ They split into:
 - Cricket
 - Hinduism
 
+----
 
+= India (School)=
+Varnas:: Social classes
+- Review *Caste Systems*  --> [[#Origins 3300 B.C.#Vedic Period 1500 BC - 500 BC|Vedic Period 1500 BC - 500 BC]]
+
+*Timeline*:
+- 1500 BC:
+    - Aryans invade
+- 1200 BC:
+    - Vedic Age
+- 1000 BC:
+    - Aryan priests prepare _Rig-Veda_
+    - Rig-Veda records *Aryan language*
+- 700 BC:
+    - Religious people make *Upanishads*
+- 527 BC:
+    - _Siddahartha_ introduce *Buddhism*
+- 184 BC:
+    - Mauryan collapse
+- 310 AD:
+    - *Gupta begins*
+
+== Mahabharata ==
+- Prince (Arjuna) didn't want to fight
+- His foes were relatives
+- Told god Krishna
+- Krishna told him it was his *duty*
+
+== Aryans ==
+- Indo-European group
+
+They invaded in *1500 B.C.*
+--> Passed Kush and into *Indus*
+
+=== Lifestyle ===
+- Loosely organized *Tribes*
+- Led by *Rajah* (Chief)
+- Hymns and Legends:
+    - Delighted in war
+
+- *Cattle* was basis for diet
+- Later eating meat was *banned*
+- So they ate:
+    - Cucumbers
+    - Bananas
+    - Barley cake
+
+=== Family ===
+Men *dominated* --> Woman can't oppose
+- Women took parts in religion
+- Allowed to *remarry*
+
+Boys and girls --> Learned *Aryan traditions*
+
+=== Language and Tradition ===
+- No written language --> *Spoke Sanskrit*:
+    - English
+    - Spanish
+    - French
+    - German
+    - pre-Aryan Indians
+
+- They sang hymns passed *orally*:
+    - Celebrated heroes
+
+They collected the *legends and hymns into a book*
+
+Vedas:: "Book of Knowledge" --> Basis of Religious practice
+
+The Aryans left no *artifacts or structures* --> Books
+- 1200 --> 500 BC *VEDIC AGE*
+
+Rig-Veda:: Oldest of 4 Vedas (*1000 BC*) --> Still in-use
+
+----
+500 B.C. --> Split into *Jati*
+- According to occupation:
+    - Separate neighborhoods
+    - EG: *Carpenters won't mix with Taxis*
+
+- Concept of duty (*dharma*) clear
+
+Dharma --> *Doing what was proper for age*:
+- Male Student would follow class occupation
+- Find wife and have *children*
+- Near death --> *Prey*
+- When *woman* husband dies:
+    - She retire and took cared of by sons
+---
+
+=== 2 Epics ===
+*Good and Evil* --> 100,000 verses
+- Called *Mahabharata*
+- Discussion of:
+    - Religion
+    - Philosophy
+
+One passage:
+- Dharma no longer used
+- Vishnu choose *Virajas* as first king
+
+Second Epic *_Ramyana_* 24,000:
+- Rama (King) and Sita (Wife)
+- *Doubting* between demons and man & wife
+- Ends with *good over evil*
