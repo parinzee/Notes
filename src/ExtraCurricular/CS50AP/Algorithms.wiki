@@ -1,0 +1,63 @@
+= Contents =
+    - [[#What is an Algorithm|What is an Algorithm]]
+    - [[#Expressing Algorithms|Expressing Algorithms]]
+    - [[#Verifying Algorithms|Verifying Algorithms]]
+        - [[#Verifying Algorithms#Empirical Analysis|Empirical Analysis]]
+        - [[#Verifying Algorithms#Formal Reasoning|Formal Reasoning]]
+
+= What is an Algorithm =
+Algorithm:: Step by step process to solve a problem. *Has 3 steps*
+
+1. *Sequencing* --> Stuff that has to be done in *order*
+2. *Selection* --> If-statements
+3. *Iterations* --> Loops
+
+= Expressing Algorithms =
+- Flow charts:
+    - Rectangles --> *Sequencing*
+    - Diamond --> *Selection*
+- Pseudocode
+- Programming Language
+
+= Verifying Algorithms =
+Important aspect --> *Correctness*
+
+== Empirical Analysis ==
+- Based on actual *experimentation*
+- Must be in *actual code*
+
+However the only way to prove is by:
+*Formal Reasoning*
+
+== Formal Reasoning ==
+One form of reasoning is _"Proof by Induction"_
+
+Proof by Induction:: Don't prove *everything* is true. Just proof enough to be *sure*
+
+{{{
+PROCEDURE calcFactorial(n) {
+    factorial ← 1
+    i ← 1
+    REPEAT UNTIL (i > n) {
+        factorial ← factorial * i
+        i ← i + 1
+    }
+    RETURN factorial
+}
+}}}
+
+- Algorithm works for *single int*
+- Prove that _"loop invariant is true"_:
+    - *A variable that should always be true*
+    - Factorial == n!
+    - i == n + 1
+
+To prove the algorithm is *true for any positive number*
+1. Base Case: *Algorithm holds for very first number*
+2. Induction Step: Algorithm works for *number and number + 1*
+
+
+----
+- It's good for *algorithm with numbers*
+
+= Measuring Efficiency =

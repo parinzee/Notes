@@ -1,2 +1,3 @@
 = Generated Links =
     - [[Internet]]
+    - [[Algorithms]]

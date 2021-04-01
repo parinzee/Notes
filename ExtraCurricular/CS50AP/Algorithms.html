@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="Stylesheet" type="text/css" href="../../style.css">
+<title>Algorithms</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+<body>
+
+<div id="Contents" class="toc"><h1 id="Contents">Contents</a></h1></div>
+<ul>
+<li>
+<a href="Algorithms.html#What is an Algorithm">What is an Algorithm</a>
+
+<li>
+<a href="Algorithms.html#Expressing Algorithms">Expressing Algorithms</a>
+
+<li>
+<a href="Algorithms.html#Verifying Algorithms">Verifying Algorithms</a>
+
+<ul>
+<li>
+<a href="Algorithms.html#Verifying Algorithms-Empirical Analysis">Empirical Analysis</a>
+
+<li>
+<a href="Algorithms.html#Verifying Algorithms-Formal Reasoning">Formal Reasoning</a>
+
+</ul>
+</ul>
+
+<div id="What is an Algorithm"><h1 id="What is an Algorithm" class="header"><a href="#What is an Algorithm">What is an Algorithm</a></h1></div>
+<dl>
+<dt>Algorithm</dt>
+<dd>Step by step process to solve a problem. <span id="What is an Algorithm-Has 3 steps"></span><strong id="Has 3 steps">Has 3 steps</strong></dd>
+</dl>
+
+<ol>
+<li>
+<span id="What is an Algorithm-Sequencing"></span><strong id="Sequencing">Sequencing</strong> --&gt; Stuff that has to be done in <span id="What is an Algorithm-order"></span><strong id="order">order</strong>
+
+<li>
+<span id="What is an Algorithm-Selection"></span><strong id="Selection">Selection</strong> --&gt; If-statements
+
+<li>
+<span id="What is an Algorithm-Iterations"></span><strong id="Iterations">Iterations</strong> --&gt; Loops
+
+</ol>
+
+<div id="Expressing Algorithms"><h1 id="Expressing Algorithms" class="header"><a href="#Expressing Algorithms">Expressing Algorithms</a></h1></div>
+<ul>
+<li>
+Flow charts:
+
+<ul>
+<li>
+Rectangles --&gt; <span id="Expressing Algorithms-Sequencing"></span><strong id="Sequencing">Sequencing</strong>
+
+<li>
+Diamond --&gt; <span id="Expressing Algorithms-Selection"></span><strong id="Selection">Selection</strong>
+
+</ul>
+<li>
+Pseudocode
+
+<li>
+Programming Language
+
+</ul>
+
+<div id="Verifying Algorithms"><h1 id="Verifying Algorithms" class="header"><a href="#Verifying Algorithms">Verifying Algorithms</a></h1></div>
+<p>
+Important aspect --&gt; <span id="Verifying Algorithms-Correctness"></span><strong id="Correctness">Correctness</strong>
+</p>
+
+<div id="Verifying Algorithms-Empirical Analysis"><h2 id="Empirical Analysis" class="header"><a href="#Verifying Algorithms-Empirical Analysis">Empirical Analysis</a></h2></div>
+<ul>
+<li>
+Based on actual <span id="Verifying Algorithms-Empirical Analysis-expirimentation"></span><strong id="expirimentation">expirimentation</strong>
+
+<li>
+Must be in <span id="Verifying Algorithms-Empirical Analysis-actual code"></span><strong id="actual code">actual code</strong>
+
+</ul>
+
+<p>
+However the only way to prove is by:
+<span id="Verifying Algorithms-Empirical Analysis-Formal Reasoning"></span><strong id="Formal Reasoning">Formal Reasoning</strong>
+</p>
+
+<div id="Verifying Algorithms-Formal Reasoning"><h2 id="Formal Reasoning" class="header"><a href="#Verifying Algorithms-Formal Reasoning">Formal Reasoning</a></h2></div>
+<p>
+One form of reasoning is <em>"Proof by Induction"</em>
+</p>
+
+<dl>
+<dt>Proof by Induction</dt>
+<dd>Don't prove <span id="Verifying Algorithms-Formal Reasoning-everything"></span><strong id="everything">everything</strong> is true. Just proof enough to be <span id="Verifying Algorithms-Formal Reasoning-sure"></span><strong id="sure">sure</strong></dd>
+</dl>
+
+<pre>
+PROCEDURE calcFactorial(n) {
+    factorial ← 1
+    i ← 1
+    REPEAT UNTIL (i &gt; n) {
+        factorial ← factorial * i
+        i ← i + 1
+    }
+    RETURN factorial
+}
+</pre>
+
+<ul>
+<li>
+Algorithm works for <span id="Verifying Algorithms-Formal Reasoning-single int"></span><strong id="single int">single int</strong>
+
+</ul>
+
+</body>
+</html>
