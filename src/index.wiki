@@ -13,6 +13,8 @@ Parin's Personal Notes Library
 
 [[ExtraCurricular/Astronomy-Cosmology/index]]
 
+== Gentoo Install Goal ==
+[[GentooInstall]]
 ----
 
 TODO: 

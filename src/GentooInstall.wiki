@@ -1,0 +1,6 @@
+= Goals =
+- ZFS
+- EFISTUB
+- Wayland/Wayfire
+- Bash/Xonsh/Startship
+- Minimal Install
