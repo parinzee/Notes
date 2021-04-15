@@ -27,6 +27,20 @@
 <a href="Algorithms.html#Verifying Algorithms-Formal Reasoning">Formal Reasoning</a>
 
 </ul>
+<li>
+<a href="Algorithms.html#Measuring Efficiency">Measuring Efficiency</a>
+
+<ul>
+<li>
+<a href="Algorithms.html#Measuring Efficiency-Counting Operations">Counting Operations</a>
+
+<li>
+<a href="Algorithms.html#Measuring Efficiency-Empirical Measurements">Empirical Measurements</a>
+
+<li>
+<a href="Algorithms.html#Measuring Efficiency-Improving Efficiency">Improving Efficiency</a>
+
+</ul>
 </ul>
 
 <div id="What is an Algorithm"><h1 id="What is an Algorithm" class="header"><a href="#What is an Algorithm">What is an Algorithm</a></h1></div>
@@ -76,7 +90,7 @@ Important aspect --&gt; <span id="Verifying Algorithms-Correctness"></span><stro
 <div id="Verifying Algorithms-Empirical Analysis"><h2 id="Empirical Analysis" class="header"><a href="#Verifying Algorithms-Empirical Analysis">Empirical Analysis</a></h2></div>
 <ul>
 <li>
-Based on actual <span id="Verifying Algorithms-Empirical Analysis-expirimentation"></span><strong id="expirimentation">expirimentation</strong>
+Based on actual <span id="Verifying Algorithms-Empirical Analysis-experimentation"></span><strong id="experimentation">experimentation</strong>
 
 <li>
 Must be in <span id="Verifying Algorithms-Empirical Analysis-actual code"></span><strong id="actual code">actual code</strong>
@@ -114,7 +128,171 @@ PROCEDURE calcFactorial(n) {
 <li>
 Algorithm works for <span id="Verifying Algorithms-Formal Reasoning-single int"></span><strong id="single int">single int</strong>
 
+<li>
+Prove that <em>"loop invariant is true"</em>:
+
+<ul>
+<li>
+<span id="Verifying Algorithms-Formal Reasoning-A variable that should always be true"></span><strong id="A variable that should always be true">A variable that should always be true</strong>
+
+<li>
+Factorial == n!
+
+<li>
+i == n + 1
+
 </ul>
+</ul>
+
+<p>
+To prove the algorithm is <span id="Verifying Algorithms-Formal Reasoning-true for any positive number"></span><strong id="true for any positive number">true for any positive number</strong>
+</p>
+<ol>
+<li>
+Base Case: <span id="Verifying Algorithms-Formal Reasoning-Algorithm holds for very first number"></span><strong id="Algorithm holds for very first number">Algorithm holds for very first number</strong>
+
+<li>
+Induction Step: Algorithm works for <span id="Verifying Algorithms-Formal Reasoning-number and number + 1"></span><strong id="number and number + 1">number and number + 1</strong>
+
+</ol>
+
+
+<hr />
+<ul>
+<li>
+It's good for <span id="Verifying Algorithms-Formal Reasoning-algorithm with numbers"></span><strong id="algorithm with numbers">algorithm with numbers</strong>
+
+</ul>
+
+<hr />
+<div id="Measuring Efficiency"><h1 id="Measuring Efficiency" class="header"><a href="#Measuring Efficiency">Measuring Efficiency</a></h1></div>
+<p>
+Good algorithm is:
+</p>
+<ul>
+<li>
+Correct
+
+<li>
+Efficient
+
+</ul>
+
+<div id="Measuring Efficiency-Counting Operations"><h2 id="Counting Operations" class="header"><a href="#Measuring Efficiency-Counting Operations">Counting Operations</a></h2></div>
+<p>
+For example a <span id="Measuring Efficiency-Counting Operations-linear search"></span><strong id="linear search">linear search</strong> algorithm
+</p>
+
+<pre>
+PROCEDURE searchList(numbers, targetNumber) {
+  index ← 1
+  REPEAT UNTIL (index &gt; LENGTH(numbers)) {
+    IF (numbers[index] = targetNumber) {
+      RETURN index
+    }
+    index ← index + 1
+  }
+  RETURN -1
+}
+
+</pre>
+
+<p>
+It would take <span id="Measuring Efficiency-Counting Operations-4"></span><strong id="4">4</strong> procedures to find the index of 3 in [3,4,7]
+</p>
+
+<dl>
+<dt>Best Case</dt>
+<dd>Number in <span id="Measuring Efficiency-Counting Operations-0th"></span><strong id="0th">0th</strong> position</dd>
+<dt>Average Case</dt>
+<dd>Number in <span id="Measuring Efficiency-Counting Operations-middle"></span><strong id="middle">middle</strong> position</dd>
+<dt>Worst Case</dt>
+<dd>Number in the <span id="Measuring Efficiency-Counting Operations-last"></span><strong id="last">last</strong> position</dd>
+</dl>
+
+<p>
+The efficiency can be described as:
+1 --&gt; <span id="Measuring Efficiency-Counting Operations-Variable init"></span><strong id="Variable init">Variable init</strong>
+2 --&gt; N/2 loop repitions
+3 --&gt; 3 operations per loop
+</p>
+
+<p>
+The equation is <span id="Measuring Efficiency-Counting Operations-1+3(n/2)"></span><strong id="1+3(n/2)">1+3(n/2)</strong>
+</p>
+
+<p>
+<img src="../../src/ExtraCurricular/CS50AP/Algorithm-Linear.png" />
+<hr />
+However the amount procedures does <span id="Measuring Efficiency-Counting Operations-not"></span><strong id="not">not</strong> equates to the <span id="Measuring Efficiency-Counting Operations-amount of time"></span><strong id="amount of time">amount of time</strong>.
+</p>
+
+<div id="Measuring Efficiency-Empirical Measurements"><h2 id="Empirical Measurements" class="header"><a href="#Measuring Efficiency-Empirical Measurements">Empirical Measurements</a></h2></div>
+<p>
+Measure time --&gt; <span id="Measuring Efficiency-Empirical Measurements-Programming Language"></span><strong id="Programming Language">Programming Language</strong>
+</p>
+
+<pre>
+function searchList(numbers, targetNumber) {
+    for (var index = 0; index &lt; numbers.length; index++) {
+        if (numbers[index] === targetNumber) {
+            return index;
+        }
+    }
+    return -1;
+}
+</pre>
+
+<p>
+This also results in a linear graph:
+</p>
+
+<div id="Measuring Efficiency-Improving Efficiency"><h2 id="Improving Efficiency" class="header"><a href="#Measuring Efficiency-Improving Efficiency">Improving Efficiency</a></h2></div>
+<dl>
+<dt>Binary Search</dt>
+<dd>A faster search algorithm for <span id="Measuring Efficiency-Improving Efficiency-sorted lists"></span><strong id="sorted lists">sorted lists</strong>. Basically compares middle index to see if it is lesser or more.</dd>
+</dl>
+
+<pre>
+PROCEDURE searchList(numbers, targetNumber) {
+  minIndex ← 1
+  maxIndex ← LENGTH(numbers)
+  REPEAT UNTIL (minIndex &gt; maxIndex) {
+    middleIndex ← FLOOR((minIndex+maxIndex)/2)
+    IF (targetNumber = numbers[middleIndex]) {
+      RETURN middleIndex
+    } ELSE {
+       IF (targetNumber &gt; numbers[middleIndex]) {
+         minIndex ← middleIndex + 1
+       } ELSE {
+         maxIndex ← middleIndex - 1
+       }
+     }
+  }
+  RETURN -1
+}
+
+
+searchList([3, 37, 45, 57, 93, 120], 45)
+</pre>
+
+
+<dl>
+<dt>Worst Case</dt>
+<dd>No number --&gt; <span id="Measuring Efficiency-Improving Efficiency-Only 3 full loops"></span><strong id="Only 3 full loops">Only 3 full loops</strong></dd>
+</dl>
+
+<p>
+The algorithm has <span id="Measuring Efficiency-Improving Efficiency-increasingly less numbers"></span><strong id="increasingly less numbers">increasingly less numbers</strong>. This means it is <span id="Measuring Efficiency-Improving Efficiency-not"></span><strong id="not">not</strong> linear.
+</p>
+
+<p>
+<img src="../../src/ExtraCurricular/CS50AP/Algorithm-Binary.png" />
+</p>
+
+<p>
+This is called <span id="Measuring Efficiency-Improving Efficiency-Logarithmic"></span><strong id="Logarithmic">Logarithmic</strong>
+</p>
 
 </body>
 </html>

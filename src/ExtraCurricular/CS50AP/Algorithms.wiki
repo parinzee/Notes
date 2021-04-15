@@ -1,9 +1,13 @@
 = Contents =
-    - [[#What is an Algorithm|What is an Algorithm]]
-    - [[#Expressing Algorithms|Expressing Algorithms]]
-    - [[#Verifying Algorithms|Verifying Algorithms]]
-        - [[#Verifying Algorithms#Empirical Analysis|Empirical Analysis]]
-        - [[#Verifying Algorithms#Formal Reasoning|Formal Reasoning]]
+  - [[#What is an Algorithm|What is an Algorithm]]
+  - [[#Expressing Algorithms|Expressing Algorithms]]
+  - [[#Verifying Algorithms|Verifying Algorithms]]
+    - [[#Verifying Algorithms#Empirical Analysis|Empirical Analysis]]
+    - [[#Verifying Algorithms#Formal Reasoning|Formal Reasoning]]
+  - [[#Measuring Efficiency|Measuring Efficiency]]
+    - [[#Measuring Efficiency#Counting Operations|Counting Operations]]
+    - [[#Measuring Efficiency#Empirical Measurements|Empirical Measurements]]
+    - [[#Measuring Efficiency#Improving Efficiency|Improving Efficiency]]
 
 = What is an Algorithm =
 Algorithm:: Step by step process to solve a problem. *Has 3 steps*
@@ -60,4 +64,93 @@ To prove the algorithm is *true for any positive number*
 ----
 - It's good for *algorithm with numbers*
 
+----
 = Measuring Efficiency =
+Good algorithm is:
+- Correct
+- Efficient
+
+== Counting Operations ==
+For example a *linear search* algorithm
+
+{{{
+PROCEDURE searchList(numbers, targetNumber) {
+  index ← 1
+  REPEAT UNTIL (index > LENGTH(numbers)) {
+    IF (numbers[index] = targetNumber) {
+      RETURN index
+    }
+    index ← index + 1
+  }
+  RETURN -1
+}
+
+}}}
+
+It would take *4* procedures to find the index of 3 in [3,4,7]
+
+Best Case:: Number in *0th* position
+Average Case:: Number in *middle* position
+Worst Case:: Number in the *last* position
+
+The efficiency can be described as:
+1 --> *Variable init*
+2 --> N/2 loop repitions
+3 --> 3 operations per loop
+
+The equation is *1+3(n/2)*
+
+{{local:./Algorithm-Linear.png}}
+----
+However the amount procedures does *not* equates to the *amount of time*.
+
+== Empirical Measurements ==
+Measure time --> *Programming Language*
+
+{{{
+function searchList(numbers, targetNumber) {
+    for (var index = 0; index < numbers.length; index++) {
+        if (numbers[index] === targetNumber) {
+            return index;
+        }
+    }
+    return -1;
+}
+}}}
+
+This also results in a linear graph:
+
+== Improving Efficiency ==
+Binary Search:: A faster search algorithm for *sorted lists*. Basically compares middle index to see if it is lesser or more.
+
+{{{
+PROCEDURE searchList(numbers, targetNumber) {
+  minIndex ← 1
+  maxIndex ← LENGTH(numbers)
+  REPEAT UNTIL (minIndex > maxIndex) {
+    middleIndex ← FLOOR((minIndex+maxIndex)/2)
+    IF (targetNumber = numbers[middleIndex]) {
+      RETURN middleIndex
+    } ELSE {
+       IF (targetNumber > numbers[middleIndex]) {
+         minIndex ← middleIndex + 1
+       } ELSE {
+         maxIndex ← middleIndex - 1
+       }
+     }
+  }
+  RETURN -1
+}
+
+
+searchList([3, 37, 45, 57, 93, 120], 45)
+}}}
+
+
+Worst Case:: No number --> *Only 3 full loops*
+
+The algorithm has *increasingly less numbers*. This means it is *not* linear.
+
+{{local:./Algorithm-Binary.png}}
+
+This is called *Logarithmic*
