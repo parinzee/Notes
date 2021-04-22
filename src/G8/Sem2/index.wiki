@@ -20,4 +20,5 @@
 2. [[LanguageArts/2-HarrietTubman]]
 3. [[LanguageArts/3-TroubleWithTelevision]]
 4. [[LanguageArts/4-Escaping]]
+5. [[LanguageArts/5-GiantStep]]
 
