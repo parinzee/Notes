@@ -22,4 +22,5 @@
 4. [[LanguageArts/4-Escaping]]
 5. [[LanguageArts/5-GiantStep]]
 6. [[LanguageArts/6-Harlem&IHaveADream]]
+7. [[LanguageArts/7-CleanSweep]]
 
