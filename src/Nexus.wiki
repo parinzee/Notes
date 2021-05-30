@@ -1,6 +1,7 @@
 = Contents =
     - [[#Mission Statement|Mission Statement]]
     - [[#Meetings|Meetings]]
+    - [[#Special|Special]]
 
 = Mission Statement =
 Nexus's mission is to achieve student body unification, improve the happiness of the students and strengthen the identity of the school, its people and its student council.
@@ -13,3 +14,6 @@ Just click on the blue-highlighted text to view the meetings.
 4. [[Nexus/3]]
 5. [[Nexus/4]]
 6. [[Nexus/5]]
+
+= Special =
+- [[Nexus/Q&A]]
