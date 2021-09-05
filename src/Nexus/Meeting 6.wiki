@@ -1,5 +1,5 @@
 = Meeting =
-Time: **05/09/2021 13:00**  -> *13:40*
+Time: *05/09/2021 13:00*  -> *13:40*
 
 = Contents =
     - [[#Meeting|Meeting]]
