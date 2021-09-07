@@ -1,10 +1,28 @@
 = Meeting =
-Time: **29/08/2021 17:33**  -> *18:14*
+Time: *29/08/2021 (17:30-18:10)* on Zoom
 
-= Topics =
-- *Announcements*:
-    - Quizziz activity for students
-        - Activity will be discussed in detail on *Aug 31st*.
+Purpose: Announcements
+
+Participants: 
+- Daniel (President)
+- Titus  (Vice President)
+- Parin  (Secretary)
+- Paul   (Social Secretary)
+- Yi     (Treasurer)
+- Jason  (Social Media Specialist)
+
+Absence: -
+
+Decision: -
+
+Motion/Other Buisness: 
+1. Daniel and Titus Announced:
+    - There will be a Quizziz activity for students this Wednesday
     - Last year's funds has been sent back to the school.
-    - Reminder to send the Wednesday Morning News clips
-- Filming for Nexus TicTok: *_"7 Types of Students During the Pandemic"_*
+    - Reminder for Yi to send the Wednesday Morning News clips
+2. Filming for Nexus TikTok (Title: *_"7 Types of Students During the Pandemic"_*)
+
+Agenda:
+- PUBG Competition 
+- Pop Cat Event 
+- Followup on Android App Development
