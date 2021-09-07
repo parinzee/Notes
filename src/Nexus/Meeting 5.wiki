@@ -1,4 +1,4 @@
-=== Meeting 1/2021 ===
+=== Meeting Minutes 1/2021 ===
 - Time: *29/08/2021 (17:30-18:10)* on Zoom
 
 - Purpose: Announcements
@@ -13,6 +13,8 @@
 
 - Absence: -
 
+- Prepared by: Parinthapat Pengpun 
+
 - Decision: -
 
 - Motion/Other Buisness: 
@@ -22,7 +24,10 @@
         - Reminder for Yi to send the Wednesday Morning News clips
     2. Paul requested everyone to film for Nexus TikTok (Title: "7 Types of Students During the Pandemic")
 
-- Agenda:
+- Next Agenda:
     - PUBG Competition 
     - Pop Cat Event 
     - Followup on Android App Development
+
+
+Meeting Ended 18:10
