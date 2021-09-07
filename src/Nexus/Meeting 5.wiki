@@ -1,28 +1,28 @@
 === Meeting 1/2021 ===
-Time: *29/08/2021 (17:30-18:10)* on Zoom
+- Time: *29/08/2021 (17:30-18:10)* on Zoom
 
-Purpose: Announcements
+- Purpose: Announcements
 
-Participants: 
-- Daniel (President)
-- Titus  (Vice President)
-- Parin  (Secretary)
-- Paul   (Social Secretary)
-- Yi     (Treasurer)
-- Jason  (Social Media Specialist)
+- Participants: 
+    - Daniel (President)
+    - Titus  (Vice President)
+    - Parin  (Secretary)
+    - Paul   (Social Secretary)
+    - Yi     (Treasurer)
+    - Jason  (Social Media Specialist)
 
-Absence: -
+- Absence: -
 
-Decision: -
+- Decision: -
 
-Motion/Other Buisness: 
-1. Daniel and Titus Announced:
-    - There will be a Quizziz activity for students this Wednesday
-    - Last year's funds has been sent back to the school.
-    - Reminder for Yi to send the Wednesday Morning News clips
-2. Filming for Nexus TikTok (Title: "7 Types of Students During the Pandemic")
+- Motion/Other Buisness: 
+    1. Daniel and Titus Announced:
+        - There will be a Quizziz activity for students this Wednesday
+        - Last year's funds has been sent back to the school.
+        - Reminder for Yi to send the Wednesday Morning News clips
+    2. Paul requested everyone to film for Nexus TikTok (Title: "7 Types of Students During the Pandemic")
 
-Agenda:
-- PUBG Competition 
-- Pop Cat Event 
-- Followup on Android App Development
+- Agenda:
+    - PUBG Competition 
+    - Pop Cat Event 
+    - Followup on Android App Development
